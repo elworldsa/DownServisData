@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RacunZahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VrstaZahtjeva>0</VrstaZahtjeva>
+  <NoviObjekat>  
+    <StavkeRacuna>     
+      <RacunStavka>
+        <artikal>
+          <Sifra>1000</Sifra>
+          <Naziv>Test artikal</Naziv>
+          <JM>ko</JM>
+          <Cijena>0.50</Cijena>
+          <Stopa>E</Stopa>
+          <Grupa>0</Grupa>
+          <PLU>0</PLU>
+        </artikal>
+        <Kolicina>1</Kolicina>
+        <Rabat>0</Rabat>
+      </RacunStavka>
+    </StavkeRacuna>
+    <VrstePlacanja>
+	<VrstaPlacanja>
+        <Oznaka>Gotovina</Oznaka>
+        <Iznos>0</Iznos>
+      </VrstaPlacanja>
+    </VrstePlacanja>
+    <BrojRacuna>1</BrojRacuna>
+  </NoviObjekat>
+</RacunZahtjev>

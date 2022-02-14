@@ -1,0 +1,1 @@
+taskkill /F /IM Tring.Fiscal.Server.exe

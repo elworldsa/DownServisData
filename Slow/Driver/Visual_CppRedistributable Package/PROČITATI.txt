@@ -1,0 +1,6 @@
+WINDOWS X86 
+instalirati samo x86 
+
+WINDOWS X64
+instalirati x86 
+instalirati x64

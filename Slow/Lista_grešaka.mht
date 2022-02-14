@@ -1,0 +1,3064 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01D49EA0.30984AF0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D49EA0.30984AF0
+Content-Location: file:///C:/AB0211C1/Lista_gresaka.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1250"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+0">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"Lista_gresaka_files/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"Lista_gresaka_files/sheet001.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D1;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Lista grešaka FU";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Lista grešaka FU</x:Name>
+    <x:WorksheetSource HRef=3D"Lista_gresaka_files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"Lista_gresaka_files/stylesheet.css"/>
+  <x:WindowHeight>7755</x:WindowHeight>
+  <x:WindowWidth>20490</x:WindowWidth>
+  <x:WindowTopX>0</x:WindowTopX>
+  <x:WindowTopY>0</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"Lista_gresaka_files/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"Lista_gresaka_files/tabstrip.htm" name=3D"frTabs" marginwidt=
+h=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01D49EA0.30984AF0
+Content-Location: file:///C:/AB0211C1/Lista_gresaka_files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="windows-1250"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:238;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+.font0
+	{color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:238;}
+.font5
+	{color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:238;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:238;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	font-weight:700;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;}
+.xl67
+	{mso-style-parent:style0;
+	font-weight:700;
+	background:#9BC2E6;
+	mso-pattern:black none;}
+.xl68
+	{mso-style-parent:style0;
+	font-weight:700;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#9BC2E6;
+	mso-pattern:black none;}
+.xl69
+	{mso-style-parent:style0;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;}
+.xl70
+	{mso-style-parent:style0;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl71
+	{mso-style-parent:style0;
+	font-weight:700;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl72
+	{mso-style-parent:style0;
+	font-weight:700;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl73
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+.xl74
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	white-space:normal;}
+.xl75
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;}
+.xl76
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;}
+.xl77
+	{mso-style-parent:style0;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	white-space:normal;}
+.xl78
+	{mso-style-parent:style0;
+	vertical-align:top;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;}
+
+------=_NextPart_01D49EA0.30984AF0
+Content-Location: file:///C:/AB0211C1/Lista_gresaka_files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1250"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+0">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Lista_gresaka.htm">
+<![if IE]>
+<base href=3D"file:///C:\AB0211C1\Lista_gresaka_files\tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Lista grešak=
+a FU</font></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01D49EA0.30984AF0
+Content-Location: file:///C:/AB0211C1/Lista_gresaka_files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1250"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+0">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../Lista_gresaka.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:\AB0211C1\Lista_gresaka_files\sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../Lista_gresaka.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1902 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:1428pt'>
+ <col width=3D387 style=3D'mso-width-source:userset;mso-width-alt:14153;wid=
+th:290pt'>
+ <col width=3D78 style=3D'mso-width-source:userset;mso-width-alt:2852;width=
+:59pt'>
+ <col class=3Dxl66 width=3D518 style=3D'mso-width-source:userset;mso-width-=
+alt:18944;
+ width:389pt'>
+ <col width=3D405 style=3D'mso-width-source:userset;mso-width-alt:14811;wid=
+th:304pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <col width=3D450 style=3D'mso-width-source:userset;mso-width-alt:16457;wid=
+th:338pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl68 width=3D387 style=3D'height:15.0pt;width:290=
+pt'>LISTA
+  GREŠAKA SA FISKALNOG UREÐAJA (NA DISPLEJU FU)<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl69 width=3D78 style=3D'width:59pt'>&nbsp;</td>
+  <td class=3Dxl70 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td class=3Dxl67 width=3D405 style=3D'width:304pt'>LISTA GREŠAKA KOJE VRA=
+ÆA TFS</td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D450 style=3D'width:338pt'></td>
+ </tr>
+ <tr class=3Dxl65 height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl71 style=3D'height:15.0pt'>NAZIV GREŠKE</td>
+  <td class=3Dxl65>Kod greške<span style=3D'mso-spacerun:yes'> </span></td>
+  <td class=3Dxl72 width=3D518 style=3D'width:389pt'>Opis problema/rješenja=
+</td>
+  <td>Nema_operatera</td>
+  <td align=3Dright>0</td>
+  <td class=3Dxl65></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>EC_FR_DISK_ERR</td>
+  <td align=3Dright>10001</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Fajl na SD kartici nij=
+e završen.
+  Potrebno na SD kartici pronaæi fajl s kapacitetom &quot;0&quot; te isti i
+  obrisati, èesto je dovoljno da se SD kartica zbaci u PC</td>
+  <td>Logiran_operater</td>
+  <td align=3Dright>1</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_INT_ERR</td>
+  <td align=3Dright>10002</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>SD kartica nije inicia=
+lizovana,
+  potrebno ubaciti u PC te vratiti u FU</td>
+  <td>Printanje_dnevnog_izvjestaja</td>
+  <td align=3Dright>10</td>
+  <td></td>
+ </tr>
+ <tr height=3D60 style=3D'height:45.0pt'>
+  <td height=3D60 class=3Dxl73 style=3D'height:45.0pt'>EC_FR_NOT_READY</td>
+  <td align=3Dright>10003</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Ureðaj ne vidi SD kart=
+icu,
+  provjeriti da li je kartica na svom mjesti(da nije iskoèila), moguæe da s=
+e ne
+  može oèitati ni na PC-u, pokušati popravak sd kartice ili spasiti podatke,
+  formatirati SD karticu te podatke ponovo vratiti na karticu.<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Printanje_presjeka_stanja</td>
+  <td align=3Dright>11</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_NO_FILE</td>
+  <td align=3Dright>4</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_periodicnog_izvjestaja</td>
+  <td align=3Dright>12</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_NO_PATH</td>
+  <td align=3Dright>5</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_duplikata_dnevnog_izvjestaja</td>
+  <td align=3Dright>13</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_INVALID_NAME</=
+td>
+  <td align=3Dright>6</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_duplikata_presjeka_stanja</td>
+  <td align=3Dright>14</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>EC_FR_DENIED</td>
+  <td align=3Dright>10007</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Zabranjen upis na SD k=
+articu,
+  spasiti podatke pokušati formatirati ili prebaciti podatke na drugu SD
+  karticu ako je muguæe</td>
+  <td>Printanje_duplikata_periodicnog_izvjesca</td>
+  <td align=3Dright>15</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_EXIST</td>
+  <td align=3Dright>10008</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_fiskalnog_racuna</td>
+  <td align=3Dright>16</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_INVALID_OBJECT=
+</td>
+  <td align=3Dright>10009</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_duplikata_fiskalnog_racuna</td>
+  <td align=3Dright>17</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_WRITE_PROTECTE=
+D</td>
+  <td align=3Dright>10010</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_reklamiranog_racuna</td>
+  <td align=3Dright>18</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_INVALID_DRIVE<=
+/td>
+  <td align=3Dright>10011</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_duplikata_reklamiranog_racuna</td>
+  <td align=3Dright>19</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_NOT_ENABLED</t=
+d>
+  <td align=3Dright>10012</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_izvjestaja_po_operaterima</td>
+  <td align=3Dright>22</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>EC_FR_NO_FILESYSTEM<=
+/td>
+  <td align=3Dright>10013</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Ošteæena FAT tabela, p=
+okušati
+  popravak pomoæu alata sa linka:
+  http://www.kase.ba/Download/power_toll.zip<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Printanje_zaglavlja_nefiskalnog_teksta</td>
+  <td align=3Dright>30</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_MKFS_ABORTED</=
+td>
+  <td align=3Dright>10014</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_nefiskalnog_teksta</td>
+  <td align=3Dright>31</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_TIMEOUT</td>
+  <td align=3Dright>10015</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_podnozja_nefiskalnog_teksta</td>
+  <td align=3Dright>32</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_LOCKED</td>
+  <td align=3Dright>10016</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_testnog_dokumenta</td>
+  <td align=3Dright>33</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_NOT_ENOUGH_COR=
+E</td>
+  <td align=3Dright>10017</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_TOO_MANY_OPEN_=
+FILES<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>10018</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EC_FR_INVALID_PARAME=
+TER</td>
+  <td align=3Dright>10019</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D80 style=3D'height:60.0pt'>
+  <td height=3D80 class=3Dxl73 style=3D'height:60.0pt'>ERROR_EJ_NO_FILE</td>
+  <td align=3Dright>20</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nedostaje fajl na SD k=
+artici.
+  Ukoliko je zamjena FM onda je obavezno upisati IMEI. Takoðer može da
+  nedostaje Zaglavlje (podaci o firmi) ukoliko javlja odmah nakon ukljuèenj=
+a, a
+  ukoliko javi grešku prilikom poèetka prenosa onda nedostaje<span
+  style=3D'mso-spacerun:yes'>  </span>komanda terminala ili postavke termin=
+ala</td>
+  <td>Printanje_izvjestaja_po_artiklima</td>
+  <td align=3Dright>20</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_FORBIDE=
+N_PERIOD</td>
+  <td align=3Dright>100</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_duplikata</td>
+  <td align=3Dright>99</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_SERVICE=
+_MODE</td>
+  <td align=3Dright>101</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Spremanje_na_SD</td>
+  <td align=3Dright>101</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_ITEM_NO=
+T_PROGRAMMED</td>
+  <td align=3Dright>102</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prodaja</td>
+  <td align=3Dright>102</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_NOT_CON=
+FIRMED</td>
+  <td align=3Dright>103</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prodaja_bez_kusura</td>
+  <td align=3Dright>103</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_SAME_Z_=
+REPORT_DATETIME</td>
+  <td align=3Dright>104</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prodaja_sa_kusurom</td>
+  <td align=3Dright>104</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_OPERATI=
+ON_CANCELED</td>
+  <td align=3Dright>105</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Kraj_racuna</td>
+  <td align=3Dright>105</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_OPERATI=
+ON_NOT_ALLOWED</td>
+  <td align=3Dright>106</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_CANNOT_=
+DELETE_CASHIER_1</td>
+  <td align=3Dright>107</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INSUFFI=
+CIENT_MONEY</td>
+  <td align=3Dright>108</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_TAX_VALUE</td>
+  <td align=3Dright>109</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_TAX_CHANGE_NUMBER</td>
+  <td align=3Dright>110</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_Dnevni_izvjestaji</td>
+  <td align=3Dright>110</td>
+  <td></td>
+ </tr>
+ <tr height=3D120 style=3D'height:90.0pt'>
+  <td height=3D120 class=3Dxl78 style=3D'height:90.0pt'>ERROR_FISCAL_INVALI=
+D_STATUS</td>
+  <td align=3Dright>111</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Ovaj problem može biti=
+ uzrokovan
+  punjenjem memorije, prekidom štampe u sluèaju nestanka papira i slièno. K=
+ada
+  utvrdimo da je sve navedeno ispravno tada se može reæi da je neispravan
+  EEPROM ali prije toga je potrebno pokušati ubaciti NEFISKALIZOVANU FM (iz
+  novog ureðaja),resetovati na tipku,<span style=3D'mso-spacerun:yes'>  </s=
+pan>te
+  resetovati kroz aplikaciju sa<span style=3D'mso-spacerun:yes'> 
+  </span>&quot;Novom FM&quot; i upisati vrijeme te vratiti orginalnu FM,
+  resetovati na tipku i ponovo upisati vrijeme.</td>
+  <td>Fiskalna_memorija_puna_Servisi</td>
+  <td align=3Dright>111</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_LAST_FISCAL_DATE</td>
+  <td align=3Dright>112</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_Reseti</td>
+  <td align=3Dright>112</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_INVOICE_FILE</td>
+  <td align=3Dright>113</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_PoreskeStope</td>
+  <td align=3Dright>113</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_FISCALIZATION_DATA</td>
+  <td align=3Dright>114</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_pun</td>
+  <td align=3Dright>114</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_FACTORY_DATA</td>
+  <td align=3Dright>115</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_pun_DI</td>
+  <td align=3Dright>115</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_DATETIME</td>
+  <td align=3Dright>116</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_pun_DI_PI</td>
+  <td align=3Dright>116</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_INPUT</td>
+  <td align=3Dright>117</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_pun_DI_PI_Potvrda</td>
+  <td align=3Dright>117</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_PERIOD</td>
+  <td align=3Dright>118</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nekomatibilna verzija TFS i Firmwera</td>
+  <td align=3Dright>137</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_PASSWOR=
+D_INVALID_FOR_USER</td>
+  <td align=3Dright>119</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>SD_backup</td>
+  <td align=3Dright>118</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_SAME_TA=
+XES</td>
+  <td align=3Dright>120</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_DEVICE_=
+NOT_FISCALIZED</td>
+  <td align=3Dright>121</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_NO_DATA=
+_FOR_TRANSFER</td>
+  <td align=3Dright>122</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_TAX_UND=
+EFINED</td>
+  <td align=3Dright>123</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Odgovor_na_Get_info</td>
+  <td align=3Dright>40</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_TAX_CAL=
+C_OVERFLOW</td>
+  <td align=3Dright>124</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Komunikacija_sa_modemom</td>
+  <td align=3Dright>50</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_ITEM_NAME</td>
+  <td align=3Dright>125</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Slanje_SALE_datoteke</td>
+  <td align=3Dright>51</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_ITEM_PLU</td>
+  <td align=3Dright>126</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Slanje_INOVICE_datoteke</td>
+  <td align=3Dright>52</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_ITEM_TAX</td>
+  <td align=3Dright>127</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Slanje_RESET_datoteke</td>
+  <td align=3Dright>53</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_ITEM_PRICE</td>
+  <td align=3Dright>128</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Slanje_TAX_datoteke</td>
+  <td align=3Dright>54</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_NO_JUMP=
+ER</td>
+  <td align=3Dright>129</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Slanje_SERV_datoteke</td>
+  <td align=3Dright>55</td>
+  <td></td>
+ </tr>
+ <tr height=3D60 style=3D'height:45.0pt'>
+  <td height=3D60 class=3Dxl73 style=3D'height:45.0pt'>ERROR_FISCAL_INVALID=
+_COUNTERS</td>
+  <td align=3Dright>10130</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Neispravni brojaèi. Po=
+kušati
+  reset kroz aplikaciju ako ne uspijeva onda ubaciti &quot;<font class=3D"f=
+ont5">NEFISKALIZOVANU
+  FM</font><font class=3D"font0">&quot; (ne može FM lager, ali odgovara od =
+novog
+  ureðaja Tone,T202, FP1Plus za sva tri ureðaja odgovara ista)<span
+  style=3D'mso-spacerun:yes'> </span></font></td>
+  <td>Preuzimanje_CMD_datoteke</td>
+  <td align=3Dright>56</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_DECRYPT=
+_FAILED</td>
+  <td align=3Dright>131</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Printanje_potvrde_uspjesnog_prenosa</td>
+  <td align=3Dright>70</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_TEST_MO=
+DE</td>
+  <td align=3Dright>132</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Kriticna_greska</td>
+  <td align=3Dright>255</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_INVALID=
+_SUBTOTAL</td>
+  <td align=3Dright>133</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>ERROR_TRANSFER_TT_FI=
+LE</td>
+  <td align=3Dright>137</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Telethings prijenos ni=
+je moguæu
+  jer nema komunikacije izmeðu FU i TFS. Nekompatibilna verzija FW i TFS.<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Nepoznata_greska</td>
+  <td align=3Dright>499</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_BACKUP_=
+HEADER_FAILED</td>
+  <td align=3Dright>10134</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Veza_sa_printerom_u_prekidu</td>
+  <td align=3Dright>400</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_BT_WRON=
+G_PIN</td>
+  <td align=3Dright>135</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Operator_nije_logiran</td>
+  <td align=3Dright>401</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FISCAL_RAM_EEP=
+ROM_COUNTER_MISMATCH<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>136</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Neispravno_vrijeme<span style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>410</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_TRANSFER_INVAL=
+ID_CMD</td>
+  <td align=3Dright>200</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Neispravna komanda koj=
+a je
+  preuzeta sa FTP servera</td>
+  <td>Vrijeme_manje_od_vremena_fiskalizacije</td>
+  <td align=3Dright>411</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_INT_OVERFLOW</=
+td>
+  <td align=3Dright>202</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Napravite_dnevni_izvjestaj</td>
+  <td align=3Dright>412</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_MISMATCH</td>
+  <td align=3Dright>203</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nema odgovora s FTP se=
+rvera ili
+  GSM mreže</td>
+  <td>Greska_fiskalne_memorije</td>
+  <td align=3Dright>413</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>GLOBAL_ERROR</td>
+  <td align=3Dright>204</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Uredjaj_je_vec_fiskaliziran</td>
+  <td align=3Dright>414</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ARGUMENT</td>
+  <td align=3Dright>205</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Porezna_grupa_ne_postoji</td>
+  <td align=3Dright>415</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>RTC_RANGE_ERROR</td>
+  <td align=3Dright>206</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nema_elektronskog_zurnala_Pogresan_parametar</td>
+  <td align=3Dright>416</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FM_READ_CHECKS=
+UM_INVALID</td>
+  <td align=3Dright>10207</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nema_servisnog_jumpera</td>
+  <td align=3Dright>417</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>ERROR_FM_READ_NO_DAT=
+A</td>
+  <td align=3Dright>208</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Pogresno_vrijeme</td>
+  <td align=3Dright>418</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SPI_ERROR</td>
+  <td align=3Dright>300</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Uredjaj_nije_fiskaliziran</td>
+  <td align=3Dright>419</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SPI_WRITE_FAILED</td>
+  <td align=3Dright>301</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_elektronskim_zurnalom</td>
+  <td align=3Dright>420</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SPI_NO_DATA</td>
+  <td align=3Dright>302</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Vrijeme_manje_od_vremena_fiskalizacije_2</td>
+  <td align=3Dright>430</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SDCARD_FILESYSTEM_NO=
+T_READY</td>
+  <td align=3Dright>350</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>DST_vec_promijenjeno</td>
+  <td align=3Dright>431</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SDCARD_FILE_NOT_FOUN=
+D</td>
+  <td align=3Dright>351</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_porezi</td>
+  <td align=3Dright>440</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SDCARD_INVALID_FILE_=
+PATH</td>
+  <td align=3Dright>352</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_izvjestaji</td>
+  <td align=3Dright>441</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SDCARD_INVALID_FILE_=
+NAME</td>
+  <td align=3Dright>353</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_reseti</td>
+  <td align=3Dright>442</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>UART_NO_DATA</td>
+  <td align=3Dright>400</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Fiskalna_memorija_puna_servisi</td>
+  <td align=3Dright>443</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>UART_MODEM_WRITE_FAI=
+LED</td>
+  <td align=3Dright>401</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Porezne_stope_iste</td>
+  <td align=3Dright>470</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>UART_INVALID_UART_RE=
+GISTER</td>
+  <td align=3Dright>402</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>UART_DMA_ERROR</td>
+  <td align=3Dright>403</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Operator_nije_logiran_2</td>
+  <td align=3Dright>655</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_IS_ON</td>
+  <td align=3Dright>500</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Greska_Fiskalna_Memorija_Elektronski_Zurnal_Modem</td>
+  <td align=3Dright>500</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_IS_OFF</td>
+  <td align=3Dright>501</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>GPRS modul se ne može =
+ukljuèiti
+  (fizièki problem s GPRS terminalom ili Konektorom terminala)</td>
+  <td>Neispravno_vrijeme_2</td>
+  <td align=3Dright>501</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BAUDRATE_INIT_=
+FAILED</td>
+  <td align=3Dright>502</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Neispravno_Fiskalno_Vrijeme</td>
+  <td align=3Dright>502</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SIM_PIN_REQUIR=
+ED</td>
+  <td align=3Dright>503</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>PIN kod nije deaktivir=
+an na SIM
+  kartici</td>
+  <td>Nema_papira</td>
+  <td align=3Dright>503</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SIM_PIN_STATUS=
+_ERROR</td>
+  <td align=3Dright>504</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Visoka_Temperatura_Printera</td>
+  <td align=3Dright>504</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_NO_SIM_CARD</t=
+d>
+  <td align=3Dright>505</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nema SIM kartice ili j=
+e terminal
+  ne vidi (provjeriti holder SIM kartice i drugu sim karticu ako je OK ide
+  zamjena terminal)</td>
+  <td>Maximalan_Broj_Dnevnih_Izvjestaja</td>
+  <td align=3Dright>505</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SIM_PUK_REQUIR=
+ED</td>
+  <td align=3Dright>506</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Maximalan_Broj_Reseta</td>
+  <td align=3Dright>506</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_PIN_ENABLED</t=
+d>
+  <td align=3Dright>507</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nepoznata_Greska</td>
+  <td align=3Dright>507</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_PIN_WRONG</td>
+  <td align=3Dright>508</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Neispravna_Komanda</td>
+  <td align=3Dright>508</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GPRS_ERROR</td>
+  <td align=3Dright>509</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nedefinirana_Porezna_Grupa</td>
+  <td align=3Dright>509</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GPRS_APN_AUTHE=
+NTICATION_FAILED</td>
+  <td align=3Dright>510</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nedefiniran_Artikal</td>
+  <td align=3Dright>510</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_GPRS_APN_GET_I=
+P_FAILED</td>
+  <td align=3Dright>511</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nema GPRS mreže (karti=
+ca može
+  biti aktivna ali neispravna), postavke neispravne<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Maximalan_broj_artikala_dostignut</td>
+  <td align=3Dright>511</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_INIT_DATA_CORR=
+UPTED</td>
+  <td align=3Dright>512</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Kolicina_cijena_0_Displej_u_kvaru_Placanje_0</td>
+  <td align=3Dright>512</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_FTP_SETUP_CONN=
+ECTION_FAILED</td>
+  <td align=3Dright>513</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nema konekcije s FTP s=
+erverm,
+  uzrok može biti signal, problemi na mreži ili sim kartica</td>
+  <td>Prekoracenje_cijene_kolicine_placanja</td>
+  <td align=3Dright>513</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_CONNECT_FA=
+ILED</td>
+  <td align=3Dright>514</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prekoracenje_u_dnevnom_totalu</td>
+  <td align=3Dright>514</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_FTP_TCP_SEND_F=
+AILED</td>
+  <td align=3Dright>515</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Registrovan na mrežu i
+  prijavljen na FTP ali ne može da uspostavi konekciju (problem s mrežom)<s=
+pan
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Prekoracenje_u_prodaji_ili_placanju</td>
+  <td align=3Dright>515</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_GET_FILE_S=
+IZE_FAILED</td>
+  <td align=3Dright>516</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prekoracenje_stavki_racuna_ili_reklamacije</td>
+  <td align=3Dright>516</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_FILE_NOT_F=
+OUND</td>
+  <td align=3Dright>517</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prekoracenje_u_iznosu_reklamacije</td>
+  <td align=3Dright>517</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_GET_FAILED=
+</td>
+  <td align=3Dright>518</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Ne_postoji_artikal_za_reklamaciju_Problem_rabata_Greska_u_n<span
+  style=3D'display:none'>efiskalnom_tekstu</span></td>
+  <td align=3Dright>518</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_EXTEND_DOW=
+NLOAD_BUFFER</td>
+  <td align=3Dright>519</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Napravite_dnevni_izvjestaj_Skinite_servisni_jumper_IOSA_nije_<span
+  style=3D'display:none'>uredu</span></td>
+  <td align=3Dright>519</td>
+  <td></td>
+ </tr>
+ <tr height=3D40 style=3D'height:30.0pt'>
+  <td height=3D40 class=3Dxl73 style=3D'height:30.0pt'>MODEM_FTP_LOGIN_FAIL=
+ED</td>
+  <td align=3Dright>520</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nemoguæa prijava na FT=
+P server
+  (mreža može biti problem ili postavke terminala)<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Format_kolicine_nije_uredu_Maximalan_Broj_klijenata_u_RAM</td>
+  <td align=3Dright>520</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_INVALID_US=
+ERNAME_OR_PASSWORD</td>
+  <td align=3Dright>521</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Prekoracenje_iznosa_placanja</td>
+  <td align=3Dright>521</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_INVALID_DI=
+RECTORY</td>
+  <td align=3Dright>522</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Pogresna_vrsta_placanja_Servis_u_toku_Nedozvoljeni_rezim</td>
+  <td align=3Dright>522</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_OPEN_DIREC=
+TORY_FAILED</td>
+  <td align=3Dright>523</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Placanja_karticom_ili_cekom_vece_od_iznosa_racuna</td>
+  <td align=3Dright>523</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_PASSIVE_CO=
+NNECTION_REQUEST_FAILED</td>
+  <td align=3Dright>524</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Ukupna_suma_placanja_veca_od_sume_racuna</td>
+  <td align=3Dright>524</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_PASSIVE_PO=
+RT_CONNECTION_FAILED</td>
+  <td align=3Dright>525</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Pogresna_komanda_za_trenutni_status</td>
+  <td align=3Dright>525</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TCP_STORE_=
+COMMAND_PERMISSION_DENIED</td>
+  <td align=3Dright>526</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Postoji fajl na FTP se=
+rveru s
+  istim nazivom (TFS nedozvoljava upis fajla)<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td>Pogresan_parametar</td>
+  <td align=3Dright>526</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TCP_STORE_=
+COMMAND_FAILED</td>
+  <td align=3Dright>527</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_terminalom_nema_odgovora</td>
+  <td align=3Dright>527</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TCP_RETRIE=
+VE_COMMAND_FAILED</td>
+  <td align=3Dright>528</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_nema_konekcije</td>
+  <td align=3Dright>528</td>
+  <td>Potrebno provjeriti zaglavlje<span style=3D'mso-spacerun:yes'>  </spa=
+n>i
+  ctrl+shift+s (SECURE OK)</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TCP_PASSIV=
+E_SEND_FAILED</td>
+  <td align=3Dright>529</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Ne može se prebaciti u=
+ pasivni
+  mod za prijenos (problem s mrežom)<span style=3D'mso-spacerun:yes'> </spa=
+n></td>
+  <td>Elektronski_zurnal_je_pun</td>
+  <td align=3Dright>529</td>
+  <td>Provjeriti kapacitet i slobodan prostor na elektronskom žurnalu<span
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TCP_SENT_F=
+ILE_VALIDATION_FAILED</td>
+  <td align=3Dright>530</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_prodajom_ili_dodavanjem_novog_artikla</td>
+  <td align=3Dright>530</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_NTP_UDP_SEND_F=
+AILED</td>
+  <td align=3Dright>531</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_prazan_ili_je_zamjenjen</td>
+  <td align=3Dright>531</td>
+  <td>Potrebno provjeriti zaglavlje<span style=3D'mso-spacerun:yes'> </span=
+></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_PIN_IS_DEACTIV=
+ATED</td>
+  <td align=3Dright>532</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_satom_realnog_vremena</td>
+  <td align=3Dright>532</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_PIN_IS_NOT_DEA=
+CTIVATED</td>
+  <td align=3Dright>533</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_SRAM</td>
+  <td align=3Dright>533</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GSM_NETWORK_ER=
+ROR</td>
+  <td align=3Dright>534</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Slab signal ili neispr=
+avna SIM
+  kartica (možda aktivna ali neispravna)</td>
+  <td>Problem_pri_inicijalizaciji</td>
+  <td align=3Dright>534</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BAD_SIGNAL</td>
+  <td align=3Dright>535</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nedovoljno_novca_u_kasi</td>
+  <td align=3Dright>535</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_CNMI_ERROR=
+</td>
+  <td align=3Dright>536</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Iznos_poreske_stope_u_nedozvoljenim_granicama</td>
+  <td align=3Dright>536</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_CLEAN_STOR=
+AGE_ERROR</td>
+  <td align=3Dright>537</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Vrijeme_manje_od_vremena_zadnjeg_fiskalnog_dokumenta</td>
+  <td align=3Dright>537</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_MODE_ERROR=
+</td>
+  <td align=3Dright>538</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_terminalom_Neispravan_pin</td>
+  <td align=3Dright>538</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_CS_ERROR</=
+td>
+  <td align=3Dright>539</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_terminalom_Neispravna_SIM_kartica</td>
+  <td align=3Dright>539</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_SEND_ERROR=
+</td>
+  <td align=3Dright>540</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_terminalom_GPRS_mreza_nedostupna</td>
+  <td align=3Dright>540</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_RECEIVE_ER=
+ROR</td>
+  <td align=3Dright>541</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nelegalna_verzija_programske_memorije</td>
+  <td align=3Dright>541</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_INVALID_IMEI</=
+td>
+  <td align=3Dright>542</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Potrebno unijeti kod I=
+MEI
+  generisan na portalu</td>
+  <td>Problem_sa_slanjem_datoteke</td>
+  <td align=3Dright>542</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GPRS_NOT_START=
+ED</td>
+  <td align=3Dright>543</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Slab signal ili neispr=
+avna SIM
+  kartica (možda aktivna ali neispravna)</td>
+  <td>Brojaci_fiskalne_memorije_nisu_uredu</td>
+  <td align=3Dright>543</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GPRS_NOT_TURNE=
+D_OFF</td>
+  <td align=3Dright>544</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Trenutne_vrijednosti_poreznih_stopa_nisu_uredu</td>
+  <td align=3Dright>544</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FTP_TYPE_SETTI=
+NG_ERROR</td>
+  <td align=3Dright>545</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Brojaci_transfera_nisu_uredu</td>
+  <td align=3Dright>545</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_PDP_ACTIVATE_E=
+RROR</td>
+  <td align=3Dright>546</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_sa_LCD_displayem</td>
+  <td align=3Dright>546</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_DATA_STATE_ERR=
+OR</td>
+  <td align=3Dright>547</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Uredaj_u_servisnom_modu</td>
+  <td align=3Dright>547</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_GPRS_NO_CONNEC=
+TION</td>
+  <td align=3Dright>548</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Backup_problem</td>
+  <td align=3Dright>548</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_TCP_CONNECTION=
+_ERROR</td>
+  <td align=3Dright>549</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Provjeriti postavke te=
+rminala
+  (pristupni podaci mneispravni)<span style=3D'mso-spacerun:yes'> </span></=
+td>
+  <td>FTP_Problem_sa_logiranjem</td>
+  <td align=3Dright>549</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_CLOCK_NOT_ENAB=
+LED</td>
+  <td align=3Dright>550</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_sa_direktorijem</td>
+  <td align=3Dright>550</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_NOT_IN_INITIAL=
+_STATE</td>
+  <td align=3Dright>551</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_sa_citanjem_datoteke</td>
+  <td align=3Dright>551</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_NOT_IN_START_S=
+TATE</td>
+  <td align=3Dright>552</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_sa_upisom_datoteke</td>
+  <td align=3Dright>552</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_NOT_IN_GPRS_ST=
+ATE</td>
+  <td align=3Dright>553</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nema_podataka_za_stampu</td>
+  <td align=3Dright>553</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_NOT_IN_STATUS_=
+STATE</td>
+  <td align=3Dright>554</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_nema_dovoljno_memorije</td>
+  <td align=3Dright>554</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_FILE_NOT_FOUND=
+</td>
+  <td align=3Dright>558</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Elektronski_zurnal_pun_stampati_DI</td>
+  <td align=3Dright>555</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_UDP_CONNECTION=
+_ERROR</td>
+  <td align=3Dright>559</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Terminal_zamijenjen</td>
+  <td align=3Dright>556</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_UDP_CONNECT_FA=
+ILED</td>
+  <td align=3Dright>560</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_osnovnih_postavki_terminala</td>
+  <td align=3Dright>557</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_TCP_CONNECT_FA=
+ILED</td>
+  <td align=3Dright>561</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_IMEI</td>
+  <td align=3Dright>558</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_SMS_SET_STORAG=
+E_ERROR</td>
+  <td align=3Dright>562</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Neispravne_postavke_terminala</td>
+  <td align=3Dright>559</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_CMD_=
+ERROR</td>
+  <td align=3Dright>563</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_neispravan_MD5</td>
+  <td align=3Dright>560</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_STAT=
+US_ERROR</td>
+  <td align=3Dright>564</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_kreiranju_invoice</td>
+  <td align=3Dright>561</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_IS_O=
+FF<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>565</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_datoteka_vec_postoji</td>
+  <td align=3Dright>562</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_IS_O=
+N</td>
+  <td align=3Dright>566</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_sa_konekcijom</td>
+  <td align=3Dright>563</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_PAIR=
+ING_ERROR</td>
+  <td align=3Dright>567</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_CIPSTATUS_not_CONNECTED</td>
+  <td align=3Dright>564</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_NO_D=
+EVICE_FOUND</td>
+  <td align=3Dright>568</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_Problem_550_Permission_denied</td>
+  <td align=3Dright>565</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>MODEM_BLUETOOTH_MESS=
+AGE_OVERFLOW</td>
+  <td align=3Dright>569</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_problem_FTPusername</td>
+  <td align=3Dright>566</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>USB_READY</td>
+  <td align=3Dright>600</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_problem_FTPpassword</td>
+  <td align=3Dright>567</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>USB_NOT_ATTACHED</td>
+  <td align=3Dright>601</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FTP_problem_PassiveConnection</td>
+  <td align=3Dright>568</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>USB_SEND_FAILED</td>
+  <td align=3Dright>602</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_osnovnih_postavki_terminala_baudrate</td>
+  <td align=3Dright>569</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>READ_ERROR</td>
+  <td align=3Dright>603</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_osnovnih_postavki_terminala_sfc</td>
+  <td align=3Dright>570</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>WRITE_ERROR</td>
+  <td align=3Dright>604</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_osnovnih_postavki_terminala_echo</td>
+  <td align=3Dright>571</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>USB_INVALID_MESSAGE<=
+/td>
+  <td align=3Dright>605</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Problem_pri_upisu_osnovnih_postavki_terminala_store</td>
+  <td align=3Dright>572</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EXTERN_FLASH_WRITE_E=
+RROR</td>
+  <td align=3Dright>10700</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Jedna_vrsta_placanja_sa_iznosom_0_potrebna_za_reklamaciju</td>
+  <td align=3Dright>573</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EXTERN_FLASH_0xFF_WR=
+ITE</td>
+  <td align=3Dright>701</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Promet_nije_uredu</td>
+  <td align=3Dright>574</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EXTERN_FLASH_OVERWRI=
+TE_FAILED</td>
+  <td align=3Dright>702</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Nema_odgovora</td>
+  <td align=3Dright>575</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EXTERN_FLASH_CORRUPT=
+ED_WRITE</td>
+  <td align=3Dright>703</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>Secure_nije_spremljen</td>
+  <td align=3Dright>576</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EXTERN_FLASH_INVALID=
+_ADDRESS</td>
+  <td align=3Dright>704</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>FD_nije_spremljen</td>
+  <td align=3Dright>577</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EEPROM_INVALID_ADDRE=
+SS</td>
+  <td align=3Dright>800</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EEPROM_WRITE_ERROR</=
+td>
+  <td align=3Dright>10801</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_TEMP</td>
+  <td align=3Dright>10900</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_SENSOR_O=
+PEN</td>
+  <td align=3Dright>901</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_COOLING_=
+DOWN</td>
+  <td align=3Dright>902</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_INVALID_=
+TEXT_FORMAT</td>
+  <td align=3Dright>903</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_INVALID_=
+TEXT_LENGTH</td>
+  <td align=3Dright>904</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR_NO_PAPAE=
+R</td>
+  <td align=3Dright>905</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ADC_MEASUREM=
+ENT_FAILED</td>
+  <td align=3Dright>906</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_NO_PAPER_PRI=
+NTER_TURN_OFF</td>
+  <td align=3Dright>907</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nema papira ili printe=
+r nije
+  ukljuèen na napajanje ili na prekidaè</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PRINTER_ERR</td>
+  <td align=3Dright>10907</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Printer neispravan, fi=
+zièki
+  ošteæen printer ili flat kabel</td>
+  <td>TT_nepoznata_Greška</td>
+  <td align=3Dright>4000</td>
+  <td></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_THRESHOLD_CALIBR=
+ATION_FAILED<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>11000</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>TT_Server_nedostupan</td>
+  <td align=3Dright>4001</td>
+  <td>Problem na TT serveru, nije u finkciji ili nije dostupan</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_COLUMN_1</td>
+  <td align=3Dright>11001</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>TT_Nema_odgovora</td>
+  <td align=3Dright>4002</td>
+  <td>Problem na TT serveru, nije u finkciji ili nije dostupan</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_COLUMN_2</td>
+  <td align=3Dright>11002</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td>TT_Pristup_zabranjen</td>
+  <td align=3Dright>4003</td>
+  <td>Potrebno dodati ureðaj na TT (IBFM nije na listi ureðaja)<span
+  style=3D'mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_COLUMN_3</td>
+  <td align=3Dright>11003</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_COLUMN_4</td>
+  <td align=3Dright>11004</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_COLUMN_5</td>
+  <td align=3Dright>11005</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_ROW_1</td>
+  <td align=3Dright>11006</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_ROW_2</td>
+  <td align=3Dright>11007</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_ROW_3</td>
+  <td align=3Dright>11008</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_ROW_4</td>
+  <td align=3Dright>11009</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TSI_ERR_ROW_5</td>
+  <td align=3Dright>11010</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>I2C_COMMUNICATION_ER=
+ROR</td>
+  <td align=3Dright>11100</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Eeprom neispravan ili =
+nema
+  komunikaciju s displejom<span style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>RTC_SET_TIME_FAILED<=
+/td>
+  <td align=3Dright>11200</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>RTC_SET_DATE_FAILED<=
+/td>
+  <td align=3Dright>11201</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>RTC_SET_ALARM_FAILED=
+</td>
+  <td align=3Dright>11202</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SRAM_INVALID_ADDRESS=
+</td>
+  <td align=3Dright>1300</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>PWR_MAIN_SUPPLY_OFF<=
+/td>
+  <td align=3Dright>1400</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_LSI_FAILED<=
+/td>
+  <td align=3Dright>11500</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_LSE_FAILED<=
+/td>
+  <td align=3Dright>11501</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_SYNC_FAILED=
+</td>
+  <td align=3Dright>11502</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_SET_TIME_FA=
+ILED</td>
+  <td align=3Dright>11503</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_SET_DATE_FA=
+ILED</td>
+  <td align=3Dright>11504</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_PRINTER_ADC_FAI=
+LED</td>
+  <td align=3Dright>11505</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_UART_FAILED</td>
+  <td align=3Dright>11506</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_DISPLAY_CUSTOME=
+R_FAILED</td>
+  <td align=3Dright>11507</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_DISPLAY_OPERATO=
+R_FAILED</td>
+  <td align=3Dright>11508</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_KEYBOARD_FAILED=
+</td>
+  <td align=3Dright>11509</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_PRINTER_FAILED<=
+/td>
+  <td align=3Dright>11510</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_MODEM_FAILED</t=
+d>
+  <td align=3Dright>11511</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_RTC_FAILED</td>
+  <td align=3Dright>11512</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_SD_CARD_FAILED<=
+/td>
+  <td align=3Dright>11513</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_SRAM_FAILED</td>
+  <td align=3Dright>11514</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INIT_EEPROM_FAILED</=
+td>
+  <td align=3Dright>11515</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_DISPLAY_CUSTOME=
+R_FAILED</td>
+  <td align=3Dright>11600</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_DISPLAY_OPERATO=
+R_FAILED</td>
+  <td align=3Dright>11601</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_KEYBOARD_FAILED=
+</td>
+  <td align=3Dright>11602</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_PRINTER_FAILED<=
+/td>
+  <td align=3Dright>11603</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_BARCODE_READER_=
+FAILED</td>
+  <td align=3Dright>11604</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_MODEM_FAILED</t=
+d>
+  <td align=3Dright>11605</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_RTC_FAILED</td>
+  <td align=3Dright>11606</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Vrijeme na printeru ne=
+ radi
+  (kvarc ili veza do procesora neispravna)<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_SD_CARD_FAILED<=
+/td>
+  <td align=3Dright>11607</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_FM_FAILED</td>
+  <td align=3Dright>11608</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_SRAM_FAILED</td>
+  <td align=3Dright>11609</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>TEST_EEPROM_FAILED</=
+td>
+  <td align=3Dright>11610</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_COMPORT</td>
+  <td align=3Dright>1700</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>Nije odabran comport (=
+vrijedi za
+  linux i android)<span style=3D'mso-spacerun:yes'> </span></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>COMPORT_TIMEOUT</td>
+  <td align=3Dright>1701</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>COMPORT_BUFFER_OVERF=
+LOW</td>
+  <td align=3Dright>1702</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>COMPORT_WRITE_ERROR<=
+/td>
+  <td align=3Dright>1703</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>COMPORT_CLOSE_ERROR<=
+/td>
+  <td align=3Dright>1704</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_COMMAND</td>
+  <td align=3Dright>1705</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NO_ITEM</td>
+  <td align=3Dright>1706</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>START_DATE_WRONG_FOR=
+MAT</td>
+  <td align=3Dright>1707</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>START_DATE_MISSING</=
+td>
+  <td align=3Dright>1708</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>END_DATE_WRONG_FORMA=
+T</td>
+  <td align=3Dright>1709</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>END_DATE_MISSING</td>
+  <td align=3Dright>1710</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NON_FISCAL_DOCUMENT_=
+MISSING</td>
+  <td align=3Dright>1711</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NO_RECEIPT_ITEMS</td>
+  <td align=3Dright>1712</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NO_RECEIPT_ITEM</td>
+  <td align=3Dright>1713</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_RECEIPT_ITEM=
+_QUANTITY</td>
+  <td align=3Dright>1714</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_RECEIPT_ITEM=
+_DISCOUNT</td>
+  <td align=3Dright>1715</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ITEM_NAME</t=
+d>
+  <td align=3Dright>1716</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ITEM_PRICE</=
+td>
+  <td align=3Dright>1717</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ITEM_TAX</td>
+  <td align=3Dright>1718</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NO_PAYMENT</td>
+  <td align=3Dright>1719</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_PAYMENT_TYPE=
+</td>
+  <td align=3Dright>1720</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_AMOUNT</td>
+  <td align=3Dright>1721</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_CUSTOMER_DAT=
+A</td>
+  <td align=3Dright>1722</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>NO_FISCAL_SERVICE</t=
+d>
+  <td align=3Dright>1723</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_CANCELED_ITE=
+M</td>
+  <td align=3Dright>1724</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ITEM_PLU</td>
+  <td align=3Dright>1725</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INVALID_ITEM_BARCODE=
+</td>
+  <td align=3Dright>1726</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>SLEEP_OCCURED_ERROR<=
+/td>
+  <td align=3Dright>1800</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INTERNAL_FLASH_WRITE=
+_ERROR</td>
+  <td align=3Dright>1900</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>INTERNAL_FLASH_CLEAR=
+_PAGE_ERROR<span
+  style=3D'mso-spacerun:yes'> </span></td>
+  <td align=3Dright>1901</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>CRYPT_ERROR</td>
+  <td align=3Dright>2000</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>CRYPT_BASE64_ERROR</=
+td>
+  <td align=3Dright>2001</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSCATION_INT=
+ERRUPTED</td>
+  <td align=3Dright>3099</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_ERROR</td>
+  <td align=3Dright>3100</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_FAILED</td>
+  <td align=3Dright>3101</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_INTERNET_IS_DOW=
+ND</td>
+  <td align=3Dright>3102</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PAGE_NOT_FOUND<=
+/td>
+  <td align=3Dright>3110</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_REQUEST_ID_NOT_=
+EXIST</td>
+  <td align=3Dright>3120</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_REQUEST_ID_NOT_=
+VALID</td>
+  <td align=3Dright>3121</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_REQUEST_ID_EXPI=
+RED</td>
+  <td align=3Dright>3122</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USERNAME_OR_PAS=
+SWORD_NULL_OR_EMPTY</td>
+  <td align=3Dright>3150</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USERNAME_NOT_EX=
+IST</td>
+  <td align=3Dright>3151</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PASSWORD_NOT_VA=
+LID</td>
+  <td align=3Dright>3152</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_IPADDRESS_NOT_V=
+ALID</td>
+  <td align=3Dright>3153</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USER_AND_APP_MI=
+SSMATCH</td>
+  <td align=3Dright>3154</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USER_BLOCKED</t=
+d>
+  <td align=3Dright>3160</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USER_ACCESS_DEN=
+IED</td>
+  <td align=3Dright>3161</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_USER_NOT_EXIST<=
+/td>
+  <td align=3Dright>3162</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'page-break-before:always;height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_COMMON_USER_NOT=
+_DELETE</td>
+  <td align=3Dright>3163</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_NUMBER_NULL_OR_=
+EMPTY</td>
+  <td align=3Dright>3200</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_NUMBER_NOT_VALI=
+D</td>
+  <td align=3Dright>3201</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_NUMBER_ALLREADY=
+_EXIST</td>
+  <td align=3Dright>3202</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PIN_NULL_OR_EMP=
+TY</td>
+  <td align=3Dright>3210</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PIN_NOT_VALID</=
+td>
+  <td align=3Dright>3211</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_AMOUNT_NULL_OR_=
+EMPTY</td>
+  <td align=3Dright>3220</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_AMOUNT_NOT_VALI=
+D</td>
+  <td align=3Dright>3221</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_AMOUNT_NOT_ENOU=
+GH</td>
+  <td align=3Dright>3222</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_EXCEEEDED</td>
+  <td align=3Dright>3223</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_CURRENT_CREDIT_=
+LIMIT</td>
+  <td align=3Dright>3224</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PARTNER_CURRENT=
+_CREDIT_LIMIT</td>
+  <td align=3Dright>3225</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_WEB_SERVICE_EXC=
+EPTION_ERROR</td>
+  <td align=3Dright>3230</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_REMOTE=
+_SERVICE_PROBLEM</td>
+  <td align=3Dright>3231</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_SERVIC=
+E_EXCEPTION_ERROR</td>
+  <td align=3Dright>3232</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_USER_N=
+OT_REGISTERED</td>
+  <td align=3Dright>3234</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_WRONG_=
+PROVIDER</td>
+  <td align=3Dright>3235</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_INCORR=
+ECT_NUMBER</td>
+  <td align=3Dright>3236</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_INVALI=
+D_PARAMETER</td>
+  <td align=3Dright>3237</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_CREATE_NEW_TRAN=
+SACTION_ERROR</td>
+  <td align=3Dright>3238</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_STORNO_PROBLEM<=
+/td>
+  <td align=3Dright>3240</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_STORNO_TIME_EXP=
+IRED</td>
+  <td align=3Dright>3241</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSACTION_ALR=
+EADY_STORNED</td>
+  <td align=3Dright>3242</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSACTION_NOT=
+_FOUND</td>
+  <td align=3Dright>3250</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSACTION_LIS=
+T_EMPTY</td>
+  <td align=3Dright>3251</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSACTION_ID_=
+NULL_OR_EMPTY</td>
+  <td align=3Dright>3252</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_PROVIDER_TRANSA=
+CTION_ID_NULL_OR_EMPTY</td>
+  <td align=3Dright>3253</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_TRANSACTION_IN_=
+PROGRESS</td>
+  <td align=3Dright>3254</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_DATES_NULL_OR_E=
+MPTY</td>
+  <td align=3Dright>3260</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl73 style=3D'height:15.0pt'>EBON_ALL_INPUTS_NULL=
+_OR_EMPTY</td>
+  <td align=3Dright>3261</td>
+  <td class=3Dxl74 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl75 style=3D'height:15.75pt'>EBON_WEB_SERVICE_AD=
+D_ALARM_ERROR</td>
+  <td class=3Dxl76 align=3Dright>3300</td>
+  <td class=3Dxl77 width=3D518 style=3D'width:389pt'>&nbsp;</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 colspan=3D2 style=3D'height:15.0pt;mso-ignore:colspan'></=
+td>
+  <td class=3Dxl66 width=3D518 style=3D'width:389pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl65 style=3D'height:15.0pt'></td>
+  <td></td>
+  <td class=3Dxl66 width=3D518 style=3D'width:389pt'></td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D387 style=3D'width:290pt'></td>
+  <td width=3D78 style=3D'width:59pt'></td>
+  <td width=3D518 style=3D'width:389pt'></td>
+  <td width=3D405 style=3D'width:304pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D450 style=3D'width:338pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D49EA0.30984AF0
+Content-Location: file:///C:/AB0211C1/Lista_gresaka_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Lista_gresaka.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D49EA0.30984AF0--

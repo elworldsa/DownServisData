@@ -1,0 +1,787 @@
+﻿ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 17. 11. 2021. 15:26:15
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+2dc0ab27dd475e34c30b486d853cdf88
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 17. 11. 2021. 15:26:16
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+64c7a32508c803253b6371f1ac650b1f
+
+ZAHTJEV:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:22
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>339220</BrojZahtjeva>
+  <VrstaZahtjeva>5</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>odDatuma</Naziv>
+      <Vrijednost>1. 11. 2021. 00:00:00</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>doDatuma</Naziv>
+      <Vrijednost>17. 11. 2021. 23:59:59</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+9f9c6113bf980a304a4b1cfa07187fb2
+
+ODGOVOR:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:27
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+27fc17079db36b60e31327a738095cab
+
+ZAHTJEV:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:35
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>976283</BrojZahtjeva>
+  <VrstaZahtjeva>5</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>odDatuma</Naziv>
+      <Vrijednost>1. 10. 2021. 00:00:00</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>doDatuma</Naziv>
+      <Vrijednost>31. 10. 2021. 23:59:59</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+f64aee8e3bbd2e27c5200e4c94959f6b
+
+ODGOVOR:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:40
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+70c75aa19bfac5a3716dad702c9ffb0e
+
+ZAHTJEV:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:48
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>3718</BrojZahtjeva>
+  <VrstaZahtjeva>5</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>odDatuma</Naziv>
+      <Vrijednost>1. 1. 2021. 00:00:00</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>doDatuma</Naziv>
+      <Vrijednost>17. 11. 2021. 23:59:59</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+bbf856d3db1a73535a0edcabba32959b
+
+ODGOVOR:
+Komanda: /StampatiPeriodicniIzvjestaj
+Vrijeme: 17. 11. 2021. 15:26:53
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+67f483d93d4d9504d0a4b8aa397765a3
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 18. 11. 2021. 14:13:55
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+606f79fbedac5f3fbcb8369599f8985b
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 18. 11. 2021. 14:13:56
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+225e021c5099a4bcd9a38e077491eaea
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 11. 2021. 14:14:00
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>645578</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+fe3bf9ba0e4d3d3ed3649389769bffe7
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 11. 2021. 14:14:01
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori>
+    <Odgovor>
+      <Naziv>Štampanje presjeka stanja</Naziv>
+      <Vrijednost xsi:type="xsd:string">907</Vrijednost>
+    </Odgovor>
+  </Odgovori>
+  <VrstaOdgovora>Greska</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+00ebe6f59e5f6b9b00cf3ae9a8f9165a
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 11. 2021. 14:14:21
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>183505</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+55c41af2ddc7a67983665410fbc6f339
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 11. 2021. 14:14:26
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+03bd7c8aedadd1f0932cc7cc8b294a0d
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 29. 11. 2021. 16:30:02
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+c78bcaa43747d6a89de1defb2bf9ac5d
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 29. 11. 2021. 16:30:03
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+b141334dacc60bf7568776ceee58508b
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 29. 11. 2021. 16:30:05
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>900081</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+27d3548191070a735a656ee4c2e69179
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 29. 11. 2021. 16:30:11
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+eb90cad33169e454048de8ecd7468f8c
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 1. 2022. 15:24:03
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>900566</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+87acfa1b97f32d2908778d0e6b046e7d
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 18. 1. 2022. 15:24:09
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+e27979c3fb240976dc819dd31311fe47
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 25. 1. 2022. 14:13:32
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+f899b547088e5d59f2f215741f23b696
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 25. 1. 2022. 14:13:33
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+d463e2e0d0f54ce4fce235ca07e3dfe3
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 25. 1. 2022. 14:13:36
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>170297</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+aec4a217e593bf3daeab9b3825dbe4ac
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 25. 1. 2022. 14:13:41
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+b0893a7ce7f3672251a637b37e7e9d71
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 25. 1. 2022. 14:17:16
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+a482e0c9a88b7b7b82a4022d741aef1a
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 25. 1. 2022. 14:17:17
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+2f55272db708a6196e62900e01cc6ec1
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 25. 1. 2022. 14:17:19
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>67700</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+e5dd47e0f4dfc775edc972dafe3389df
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 25. 1. 2022. 14:17:24
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+a0ba4415e9e40ecd5d62687a1b735183
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 31. 1. 2022. 18:20:14
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+9226ace9c48efbc5c199ba80cf6ecf3d
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 31. 1. 2022. 18:20:15
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+40aff5a20107a9c2eda1d8cc713df7e0
+
+ZAHTJEV:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 31. 1. 2022. 18:20:20
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>113612</BrojZahtjeva>
+  <VrstaZahtjeva>3</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+4cf2ce83c1c8c602f733f54ce1343d6f
+
+ODGOVOR:
+Komanda: /StampatiPresjekStanja
+Vrijeme: 31. 1. 2022. 18:20:25
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+2fff7460384bba76305c054a5337f56a
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:07:18
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+27e88894ae42ed6201853d0575369cd3
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:07:19
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+c092e583cd683311fd22ee123c90df4a
+
+ZAHTJEV:
+Komanda: /CitajArtikal
+Vrijeme: 5. 2. 2022. 16:07:26
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<double>1</double>
+===================================================================
+0b054865afaf4c7583c3b744ef1ac999
+
+ODGOVOR:
+Komanda: /CitajArtikal
+Vrijeme: 5. 2. 2022. 16:07:27
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Artikal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sifra>1</Sifra>
+  <Naziv>test</Naziv>
+  <JM>ko</JM>
+  <Cijena>20</Cijena>
+  <Stopa>E</Stopa>
+  <Grupa>0</Grupa>
+  <PLU>1</PLU>
+</Artikal>
+===================================================================
+a11791e3ce29655284f3ff086f2d88d2
+
+ZAHTJEV:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:07:30
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>481481</BrojZahtjeva>
+  <VrstaZahtjeva>29</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>linija1</Naziv>
+      <Vrijednost>test</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>linija2</Naziv>
+      <Vrijednost>1X                20</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+67f773480274728650507fae2f8f31df
+
+ODGOVOR:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:07:30
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+cee568b8228582f40d99ad11d20e2f93
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:08:23
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+5fa6d9afd03a8ee8bcbf9afc7fd3e537
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:08:24
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+cacb59d1d8cc081a7be3fcea56eb72a0
+
+ZAHTJEV:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:08:49
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>722497</BrojZahtjeva>
+  <VrstaZahtjeva>29</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>linija1</Naziv>
+      <Vrijednost>Test</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>linija2</Naziv>
+      <Vrijednost>1X               0,1</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+c6912d03c943076343d49758cc43ae16
+
+ODGOVOR:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:08:49
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+0ddf47651b0e10b09d99de462d777070
+
+ZAHTJEV:
+Komanda: /StampatiFiskalniRacun
+Vrijeme: 5. 2. 2022. 16:08:57
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<RacunZahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>233</BrojZahtjeva>
+  <VrstaZahtjeva>0</VrstaZahtjeva>
+  <NoviObjekat>
+    <Datum>0001-01-01T00:00:00</Datum>
+    <StavkeRacuna>
+      <RacunStavka>
+        <artikal>
+          <Sifra>1</Sifra>
+          <Naziv>Test</Naziv>
+          <JM>ko</JM>
+          <Cijena>0.1</Cijena>
+          <Stopa>A</Stopa>
+          <Grupa>0</Grupa>
+          <PLU>0</PLU>
+        </artikal>
+        <Kolicina>1</Kolicina>
+        <Rabat>0</Rabat>
+      </RacunStavka>
+    </StavkeRacuna>
+    <VrstePlacanja>
+      <VrstaPlacanja>
+        <Oznaka>Gotovina</Oznaka>
+        <Iznos>0</Iznos>
+      </VrstaPlacanja>
+    </VrstePlacanja>
+    <Napomena />
+    <BrojRacuna>233</BrojRacuna>
+  </NoviObjekat>
+</RacunZahtjev>
+===================================================================
+e54f0f7d26eea83b0b7d45ce0a699b63
+
+ODGOVOR:
+Komanda: /StampatiFiskalniRacun
+Vrijeme: 5. 2. 2022. 16:09:03
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori>
+    <Odgovor>
+      <Naziv>BrojFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:int">2</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>DatumFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">5. 2. 2022.</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>VrijemeFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">16:08:58</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>IznosFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:double">0.1</Vrijednost>
+    </Odgovor>
+  </Odgovori>
+  <VrstaOdgovora>OK</VrstaOdgovora>
+  <BrojZahtjeva>233</BrojZahtjeva>
+</KasaOdgovor>
+===================================================================
+1d28cc7ae5a51f97c63e8785850bec04
+
+ZAHTJEV:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:09:30
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>125513</BrojZahtjeva>
+  <VrstaZahtjeva>29</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>linija1</Naziv>
+      <Vrijednost>Test</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>linija2</Naziv>
+      <Vrijednost>1X               0,1</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+d25b12ba489888984d324d0b785f3bc0
+
+ODGOVOR:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 5. 2. 2022. 16:09:30
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+fed91dc201d24569a487c56e69a02a5a
+
+ZAHTJEV:
+Komanda: /StampatiReklamiraniRacun
+Vrijeme: 5. 2. 2022. 16:09:32
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<RacunZahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>2</BrojZahtjeva>
+  <VrstaZahtjeva>2</VrstaZahtjeva>
+  <NoviObjekat>
+    <Datum>0001-01-01T00:00:00</Datum>
+    <StavkeRacuna>
+      <RacunStavka>
+        <artikal>
+          <Sifra>1</Sifra>
+          <Naziv>Test</Naziv>
+          <JM>ko</JM>
+          <Cijena>0.1</Cijena>
+          <Stopa>A</Stopa>
+          <Grupa>0</Grupa>
+          <PLU>0</PLU>
+        </artikal>
+        <Kolicina>1</Kolicina>
+        <Rabat>0</Rabat>
+      </RacunStavka>
+    </StavkeRacuna>
+    <VrstePlacanja>
+      <VrstaPlacanja>
+        <Oznaka>Gotovina</Oznaka>
+        <Iznos>0</Iznos>
+      </VrstaPlacanja>
+    </VrstePlacanja>
+    <Napomena />
+    <BrojRacuna>2</BrojRacuna>
+  </NoviObjekat>
+</RacunZahtjev>
+===================================================================
+bb36bf888d4c8e9fd70642b276500ef0
+
+ODGOVOR:
+Komanda: /StampatiReklamiraniRacun
+Vrijeme: 5. 2. 2022. 16:09:38
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori>
+    <Odgovor>
+      <Naziv>BrojFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:int">2</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>DatumFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">5. 2. 2022.</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>VrijemeFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">16:09:33</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>IznosFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:double">0.1</Vrijednost>
+    </Odgovor>
+  </Odgovori>
+  <VrstaOdgovora>OK</VrstaOdgovora>
+  <BrojZahtjeva>2</BrojZahtjeva>
+</KasaOdgovor>
+===================================================================
+78d3ef8a9405db456bf681a458973ef6
+
+ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:09:48
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+6ad9b8ff5b23b7d7a7b74b4787b6ca54
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 5. 2. 2022. 16:09:48
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+d94050e689be9342998eab71492942b3
+
+ZAHTJEV:
+Komanda: /StampatiDnevniIzvjestaj
+Vrijeme: 5. 2. 2022. 16:09:51
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>537987</BrojZahtjeva>
+  <VrstaZahtjeva>4</VrstaZahtjeva>
+  <Parametri />
+</Zahtjev>
+===================================================================
+5244d23398b064cb7ec16248b584dad9
+
+ODGOVOR:
+Komanda: /StampatiDnevniIzvjestaj
+Vrijeme: 5. 2. 2022. 16:09:56
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+a3159a26c39079a7bc95dbe23e1ac394
+

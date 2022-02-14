@@ -1,0 +1,8 @@
+Telecom,FTP server,FTP alternate1,FTP alternate2,FTP port,FTP username,FTP password,FTP userLDAP,FTP passLDAP,FTP userVPN,FTP passVPN,APN,APN Username,APN Password,Upload dir,Download dir,Region
+TELETHINGS,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,active.bhmobile.ba    ,Tring,Tring,/izvjestaji,/komande,F
+TELETHINGS V2,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,tthings.bhmobile.ba    ,Tring,Tring,/izvjestaji,/komande,F
+TELETHINGS V3,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,fiscal.tthings.com    ,Tring,Tring,/izvjestaji,/komande,F
+BH Telecom,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,pufbih.bhmobile.ba    ,Tring,Tring,/izvjestaji,/komande,F
+ERONET,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,porezna.eronet.ba    ,Tring,Tring,/izvjestaji,/komande,F
+M:TEL,80.65.78.23  ,80.65.78.24,80.65.78.26,40000   ,Tring.prod,sDU4MK35    ,      ,      ,       ,       ,PUFBIH    ,Tring,Tring,/izvjestaji,/komande,F
+TEST_TRING  ,46.4.145.12  , ,       ,991   ,KaseFTPS ,kasse.baxx20?    ,      ,      ,       ,       ,tring.bhmobile.ba    ,Tring,Tring,/testFtp/izvjestaji,/testFtp/komande,F

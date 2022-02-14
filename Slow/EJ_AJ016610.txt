@@ -1,0 +1,1591 @@
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 1
+21.07.2018. 11:48
+- - - - - - - - - - - - - - - - 
+Test art/ko                0,50A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                     0,50
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                      0,50
+UPLAĆENO:
+Gotovina:                   0,50
+Ukupno:                     0,50
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - 
+11b40c58389a96d1a5d2651261693cca
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 2
+13.08.2018. 12:33
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.256,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.256,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.256,00
+UPLAĆENO:
+Virman:                 1.256,00
+Ukupno:                 1.256,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+22532f3dca5049cc0c7634a8954acc65
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000001
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 3
+13.08.2018. 12:55
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.952,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.952,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.952,00
+UPLAĆENO:
+Virman:                 1.952,00
+Ukupno:                 1.952,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+7fcc63e0fe6b509550f88c8dc30d364d
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000002
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 4
+23.08.2018. 09:30
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.360,80A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.360,80
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.360,80
+UPLAĆENO:
+Virman:                 1.360,80
+Ukupno:                 1.360,80
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4200332400006
+FEDERALNA UPRAVA CIVILNE ZASTIT
+       Vitomira Lukica 10
+    71160 Sarajevo Novi Grad
+- - - - - - - - - - - - - - - - 
+574fe012526e392d89b23b6859bc1d0f
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000003
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 5
+31.08.2018. 11:57
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      520,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   520,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    520,00
+UPLAĆENO:
+Virman:                   520,00
+Ukupno:                   520,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+7158801ae8362564cf99104c7af579cc
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000004
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 6
+01.10.2018. 09:44
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      400,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   400,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    400,00
+UPLAĆENO:
+Virman:                   400,00
+Ukupno:                   400,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4200391240004
+PROMO TOURS društvo za turizam,
+    Kemala Kapetanovića b.b.
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+705041702978bb059d585c034ce8d9dc
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000005
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 7
+24.10.2018. 10:38
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.150,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.150,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.150,00
+UPLAĆENO:
+Virman:                 1.150,00
+Ukupno:                 1.150,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+826675d425ecacd94d78849ae3a969c9
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000006
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 8
+24.10.2018. 10:44
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      400,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   400,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    400,00
+UPLAĆENO:
+Virman:                   400,00
+Ukupno:                   400,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4200391240004
+PROMO TOURS društvo za turizam,
+    Kemala Kapetanovića b.b.
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+b336d562ed22213a601e0545db9a3000
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000007
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 9
+06.12.2018. 11:33
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      672,04A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   672,04
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    672,04
+UPLAĆENO:
+Virman:                   672,04
+Ukupno:                   672,04
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4200509690000
+AKADEMIJA SCENSKIH UMJETNOSTI U
+      Obala Kulin bana 11
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+f5357137f5e3f7b15e92a00d66504729
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000008
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 10
+06.12.2018. 12:03
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                  130.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:               130.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                130.000,00
+UPLAĆENO:
+Virman:               130.000,00
+Ukupno:               130.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4201929920007
+          ORBICODE DOO
+            Musala 1
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+b8c785797378e8468938fe0c1dc91486
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000009
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 11
+21.01.2019. 12:30
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.170,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.170,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.170,00
+UPLAĆENO:
+Virman:                 1.170,00
+Ukupno:                 1.170,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4201913090004
+      RING d.o.o. Sarajevo
+        Put Života br. 1
+ 71120 Sarajevo - Novo Sarajevo
+- - - - - - - - - - - - - - - - 
+92cf38d5a196f8b137ad1474d87a253f
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000001
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 12
+30.01.2019. 09:35
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.465,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.465,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.465,00
+UPLAĆENO:
+Virman:                 1.465,00
+Ukupno:                 1.465,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+59fe1dbd7e9ceab38c0fd2a3a2272fee
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000002
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 13
+30.01.2019. 11:18
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      163,80A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   163,80
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    163,80
+UPLAĆENO:
+Virman:                   163,80
+Ukupno:                   163,80
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202337960002
+       ST CONSULTING DOO
+            Musala 1
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+2f07ea846b3607bd271152c8663ecb63
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000003
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 14
+22.02.2019. 12:38
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      260,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   260,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    260,00
+UPLAĆENO:
+Virman:                   260,00
+Ukupno:                   260,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+9ebf0719f9f1dfd57bdac0e76cdbb840
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000004
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 15
+28.02.2019. 13:14
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      608,40A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   608,40
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    608,40
+UPLAĆENO:
+Virman:                   608,40
+Ukupno:                   608,40
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4200155860000
+       Xenon forte d.o.o.
+          Tvornička 3
+      71 210 Ilidža Ilidža
+- - - - - - - - - - - - - - - - 
+1758f86db833d32f2089fb8643ff6c41
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000005
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 16
+30.09.2019. 15:43
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    3.500,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 3.500,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  3.500,00
+UPLAĆENO:
+Virman:                 3.500,00
+Ukupno:                 3.500,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+389e60334efd93192e92909f9276d102
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000006
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 17
+24.10.2019. 12:26
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    2.500,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 2.500,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  2.500,00
+UPLAĆENO:
+Virman:                 2.500,00
+Ukupno:                 2.500,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+548048bd6937be548d97230791610f08
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000007
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 18
+24.10.2019. 12:29
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                   12.623,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                12.623,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                 12.623,00
+UPLAĆENO:
+Virman:                12.623,00
+Ukupno:                12.623,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+e8ba24c5a5102205118dc3f389a5718c
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000008
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 19
+24.10.2019. 12:30
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    3.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 3.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  3.200,00
+UPLAĆENO:
+Virman:                 3.200,00
+Ukupno:                 3.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+1116998b61d1af629b52a7e929e1065d
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000009
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 20
+12.11.2019. 11:48
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                   22.538,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                22.538,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                 22.538,00
+UPLAĆENO:
+Virman:                22.538,00
+Ukupno:                22.538,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+49ea34464ae0910e219ba86d51597750
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000010
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 21
+12.11.2019. 11:49
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    2.500,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 2.500,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  2.500,00
+UPLAĆENO:
+Virman:                 2.500,00
+Ukupno:                 2.500,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+3cb8173b217acf8deba871b771a55335
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000011
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 22
+30.01.2020. 06:21
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    3.300,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 3.300,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  3.300,00
+UPLAĆENO:
+Virman:                 3.300,00
+Ukupno:                 3.300,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+6431652186726812b7c7474d40fd2cd6
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000001
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 23
+30.01.2020. 06:26
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    2.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 2.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  2.000,00
+UPLAĆENO:
+Virman:                 2.000,00
+Ukupno:                 2.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+9d56fd1b5c2c0d31e64c3938d6538043
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000003
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 24
+19.02.2020. 09:34
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    3.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 3.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  3.000,00
+UPLAĆENO:
+Virman:                 3.000,00
+Ukupno:                 3.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+ca7ce5d92a83d98ea86953b8f0668bbf
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-ra?una:000003
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 25
+31.03.2020. 11:06
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    3.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 3.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  3.000,00
+UPLAĆENO:
+Virman:                 3.000,00
+Ukupno:                 3.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+aa02e995a18c7c9541a6176743c9eb98
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000004
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 26
+30.04.2020. 10:11
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.000,00
+UPLAĆENO:
+Virman:                 1.000,00
+Ukupno:                 1.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+daa7bdc21d0f33c62a92124343ae0783
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000006
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 27
+30.05.2020. 11:36
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                      700,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                   700,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                    700,00
+UPLAĆENO:
+Virman:                   700,00
+Ukupno:                   700,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+f785ddb131077afe1a15a7ac4deb8484
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000006
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 28
+06.07.2020. 12:18
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+4b4bcd0cb4829e5613a1a9fb588a253c
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000008
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 29
+06.07.2020. 12:20
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.000,00
+UPLAĆENO:
+Virman:                 1.000,00
+Ukupno:                 1.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+ebe0435ec879098de7753e4cc0f8d30c
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000007
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 30
+13.07.2020. 10:20
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.100,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.100,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.100,00
+UPLAĆENO:
+Virman:                 1.100,00
+Ukupno:                 1.100,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+811132db08fa09c0a979fa06f04517d7
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000010
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 31
+13.07.2020. 10:25
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+1cb2d779862cbf36eda1fde21396389a
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000009
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 32
+26.08.2020. 10:30
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.500,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.500,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.500,00
+UPLAĆENO:
+Virman:                 1.500,00
+Ukupno:                 1.500,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+f8b19db5a1a94151674b2f9b153ef5fa
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000012
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 33
+26.08.2020. 10:32
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.000,00
+UPLAĆENO:
+Virman:                 1.000,00
+Ukupno:                 1.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+50425d2a0a3ef842c632814cd1c6e8bd
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000011
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 34
+14.09.2020. 13:26
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+144a8931fe3d4bc537db7c1ccbed0cbe
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000014
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 35
+14.09.2020. 13:28
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+0469bdd8081142eee6242b291251ee0a
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000013
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 36
+19.10.2020. 09:18
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.300,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.300,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.300,00
+UPLAĆENO:
+Virman:                 1.300,00
+Ukupno:                 1.300,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+9da5f5aa61a394a15e831cf0e294ad8c
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000015
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 37
+19.10.2020. 09:26
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+053b9d6e01dac7bdaefef3b2d5b2f06b
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000016
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 38
+24.11.2020. 09:12
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.200,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.200,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.200,00
+UPLAĆENO:
+Virman:                 1.200,00
+Ukupno:                 1.200,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4218674030002
+   Modna kuca Elegans d.o.o.
+       Dr. Dzananovica bb
+          71300 Visoko
+- - - - - - - - - - - - - - - - 
+14283e4d2821e25b055c4e5e62afcecc
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000017
+- - - - - - - - - - - - - - - - 
+
+= = = = = = = = = = = = = = = = 
+         POLOCON d.o.o.
+     ul. Binježevo br. 173A
+         71240 Hadžići
+
+JIB: 4202514250002
+PIB: 000000000000
+
+IBFM: AJ016610
+- - - - - - - - - - - - - - - - 
+         FISKALNI RAČUN
+BF: 39
+24.11.2020. 09:14
+- - - - - - - - - - - - - - - - 
+Stavke po fakturi-računu bez PDV
+/ko                    1.000,00A
+- - - - - - - - - - - - - - - - 
+VA: 0,00%
+OSN. A:                 1.000,00
+PDV A:                      0,00
+PDV:                        0,00
+
+TOTAL:                  1.000,00
+UPLAĆENO:
+Virman:                 1.000,00
+Ukupno:                 1.000,00
+POVRAT:                     0,00
+- - - - - - - - - - - - - - - - 
+KUPAC:
+       IBK: 4202052290003
+  Fashion Team d.o.o. Sarajevo
+        Jadranska br. 8
+    71103 Sarajevo - Centar
+- - - - - - - - - - - - - - - - 
+7277839ae62fbd3c4dde1257d1a7b0ba
+
+              LOGO
+= = = = = = = = = = = = = = = = 
+Broj fakture-računa:000018
+- - - - - - - - - - - - - - - - 
+

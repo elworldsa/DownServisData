@@ -1,0 +1,15 @@
+v3.4.181+2ad7156 - 
+14.03.2019 - NSC command - Fix add item on printer 
+
+v3.4.177_c294aa7
+	 All command - Fix date/time problem on periodical report
+
+v3.4.168_b4c6c03
+	 ALL Command - Fix closing open file
+	 ERP command - Fix tax signature number or string
+
+v3.4.162_1b0cf8a
+        ALL command - Fix more folder for executing command
+
+v3.4.140_daf8e73
+        NSC command - Fix adding item on printer

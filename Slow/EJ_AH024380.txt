@@ -1,0 +1,424 @@
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 1
+22.01.2019. 09:57
+- - - - - - - - - - - - - - - - - 
+TEST ARTIKAL/ko              0,50E
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       0,43
+PDV E:                        0,07
+PDV:                          0,07
+
+TOTAL:                        0,50
+UPLAĆENO:
+Gotovina:                     0,50
+Ukupno:                       0,50
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ 011fe5056a5a8cf2c8cced7d24f29d06
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 2
+23.01.2019. 08:49
+- - - - - - - - - - - - - - - - - 
+NITROLINGUAL SPRAY  0,4 MG  200 D.
+/ko                         12,60E
+                -18,73%:     10,24
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       8,75
+PDV E:                        1,49
+PDV:                          1,49
+
+TOTAL:                       10,24
+UPLAĆENO:
+Ček:                         10,24
+Ukupno:                      10,24
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ 32dda8bf17f386122c686723885c3133
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 3
+23.01.2019. 08:52
+- - - - - - - - - - - - - - - - - 
+BISOCOR tbl.30x5 mg/ko       6,10E
+                -19,51%:      4,91
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       4,20
+PDV E:                        0,71
+PDV:                          0,71
+
+TOTAL:                        4,91
+UPLAĆENO:
+Ček:                          4,91
+Ukupno:                       4,91
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ d22324d373ded64ab2a2fcc3baeb2683
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 4
+23.01.2019. 08:58
+- - - - - - - - - - - - - - - - - 
+TRAZEM  tablete  5mg   10 tbl./ko
+3,000x         1,60          4,80E
+                -19,58%:      3,86
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       3,30
+PDV E:                        0,56
+PDV:                          0,56
+
+TOTAL:                        3,86
+UPLAĆENO:
+Ček:                          3,86
+Ukupno:                       3,86
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ bc27d8e7e13f5c9e1ce037c8d1caf893
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 5
+23.01.2019. 08:59
+- - - - - - - - - - - - - - - - - 
+EUTHYROX TBL 100X100/ku
+2,000x         7,60         15,20E
+CONTROLOC tablete 20mg  28tbl./ko
+                             7,75E
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                      19,62
+PDV E:                        3,33
+PDV:                          3,33
+
+TOTAL:                       22,95
+UPLAĆENO:
+Gotovina:                    22,95
+Ukupno:                      22,95
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ f54bf86de9f3f08a05c148884c90c88b
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 6
+23.01.2019. 08:59
+- - - - - - - - - - - - - - - - - 
+TYLOL HOT  PRAŠAK A 1KESICA/ko
+2,000x         0,85          1,70E
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       1,45
+PDV E:                        0,25
+PDV:                          0,25
+
+TOTAL:                        1,70
+UPLAĆENO:
+Gotovina:                     1,70
+Ukupno:                       1,70
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ adda6790a3639a4fea9f385634940aa3
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 7
+23.01.2019. 09:00
+- - - - - - - - - - - - - - - - - 
+FROMILID 500 FILM TBL. 14X500 MG/k
+o                           16,75E
+                -18,81%:     13,60
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                      11,62
+PDV E:                        1,98
+PDV:                          1,98
+
+TOTAL:                       13,60
+UPLAĆENO:
+Ček:                         13,60
+Ukupno:                      13,60
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ 9c86afd30d94ad9c4ce915c81832844d
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 8
+23.01.2019. 09:02
+- - - - - - - - - - - - - - - - - 
+HERBIFIT sirup Jagorčevina a 150ml
+ - Pharmame/ko               8,80E
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       7,52
+PDV E:                        1,28
+PDV:                          1,28
+
+TOTAL:                        8,80
+UPLAĆENO:
+Gotovina:                     8,80
+Ukupno:                       8,80
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ c5f2566329cb85831d879389cea4b1fc
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 9
+23.01.2019. 09:12
+- - - - - - - - - - - - - - - - - 
+ČAŠA za urin sterilna (Omikron)/ko
+4,000x         0,50          2,00E
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                       1,71
+PDV E:                        0,29
+PDV:                          0,29
+
+TOTAL:                        2,00
+UPLAĆENO:
+Gotovina:                     2,00
+Ukupno:                       2,00
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ 244abf87a947452ea410b8e399b6dd2b
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 10
+23.01.2019. 09:14
+- - - - - - - - - - - - - - - - - 
+FLUSETIN FILM TBL. 20X20 MG/ko
+2,000x         8,40         16,80E
+                -19,23%:     13,57
+CARVELOL TBL.30X3,125 MG/ko
+2,000x         3,90          7,80E
+                -18,97%:      6,32
+ONBREZ BREEZHALER prašak za inh.ka
+ps. 30x150 mcg/ko           68,70E
+                -18,76%:     55,81
+LANIBOS tablete 0,25mg  20 tbl./ko
+                             1,45E
+                -19,31%:      1,17
+LOPRIL H10 30X(10+12,5)/ku   7,80E
+                -18,97%:      6,32
+Q PIN film obl.tbl.60x25 mg/ko
+                            27,70E
+                -18,92%:     22,46
+MEMANTIN PLIVA film obl.tbl.30x10 
+mg/ko                       34,90E
+                -19,54%:     28,08
+TRUSOPT kapi za oči/ko
+2,000x        14,90         29,80E
+                -19,77%:     23,91
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                     134,74
+PDV E:                       22,90
+PDV:                         22,90
+
+TOTAL:                      157,64
+UPLAĆENO:
+Ček:                        157,64
+Ukupno:                     157,64
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ e82644271f210d1a51e871f7329b3f70
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+
+= = = = = = = = = = = = = = = = = 
+      P.Z.U- Apoteka IBO&CO
+        Sarajevo-ogranak 1
+        Patriotske lige 35
+          71000 Sarajevo
+
+JIB: 4201117800059
+PIB: 201117800008
+
+IBFM: AH024380
+- - - - - - - - - - - - - - - - - 
+          FISKALNI RAČUN
+BF: 11
+23.01.2019. 09:15
+- - - - - - - - - - - - - - - - - 
+PINOX tbl. 28x10mg/ko        8,10E
+                -19,14%:      6,55
+DILATREND TABLETE   6,25MG 28 TBL.
+*/ko                         6,40E
+                -18,44%:      5,22
+LODIX tablete 40mg 10 tbl./ko
+                             1,45E
+                -19,31%:      1,17
+LIPTIN FILM TBL 30X10MG/g    7,40E
+                -19,32%:      5,97
+CO-DIOVAN TABLETE 28 X 80/12.5 MG/
+ko                          11,90E
+                -19,41%:      9,59
+NOLPAZA TBL 28X20MG/ko       7,70E
+                -19,22%:      6,22
+- - - - - - - - - - - - - - - - - 
+VE: 17,00%
+OSN. E:                      29,68
+PDV E:                        5,04
+PDV:                          5,04
+
+TOTAL:                       34,72
+UPLAĆENO:
+Gotovina:                     3,58
+Ček:                         31,14
+Ukupno:                      34,72
+POVRAT:                       0,00
+- - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - 
+ f0cf5ef2b441c68b0fbddcc7dec5d702
+
+               LOGO
+= = = = = = = = = = = = = = = = = 
+

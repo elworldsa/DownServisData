@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Racun" type="Racun" />
+  <xs:complexType name="Racun">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Datum" type="xs:dateTime" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Kupac" type="Kupac" />
+      <xs:element minOccurs="0" maxOccurs="1" name="StavkeRacuna" type="ArrayOfRacunStavka" />
+      <xs:element minOccurs="0" maxOccurs="1" name="VrstePlacanja" type="ArrayOfVrstaPlacanja" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Napomena" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="BrojRacuna" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Kupac">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="IDbroj" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="PDVbroj" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Naziv" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Adresa" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="PostanskiBroj" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Grad" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfRacunStavka">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RacunStavka" nillable="true" type="RacunStavka" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="RacunStavka">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="artikal" type="Artikal" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Kolicina" type="xs:double" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Rabat" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Artikal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="Sifra" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="Naziv" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="1" name="JM" type="xs:string" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Cijena" type="xs:double" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Stopa" type="VrstePoreskihStopa" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Grupa" type="xs:int" />
+      <xs:element minOccurs="1" maxOccurs="1" name="PLU" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="VrstePoreskihStopa">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="A" />
+      <xs:enumeration value="E" />
+      <xs:enumeration value="J" />
+      <xs:enumeration value="K" />
+      <xs:enumeration value="M" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="ArrayOfVrstaPlacanja">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="VrstaPlacanja" nillable="true" type="VrstaPlacanja" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="VrstaPlacanja">
+    <xs:sequence>
+      <xs:element minOccurs="1" maxOccurs="1" name="Oznaka" type="VrstePlacanja" />
+      <xs:element minOccurs="1" maxOccurs="1" name="Iznos" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="VrstePlacanja">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Gotovina" />
+      <xs:enumeration value="Cek" />
+      <xs:enumeration value="Kartica" />
+      <xs:enumeration value="Virman" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

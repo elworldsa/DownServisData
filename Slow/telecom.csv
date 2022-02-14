@@ -1,0 +1,15 @@
+Telecom          ,APN                  ,APN User,APN Pass,FTP server           ,FTP port,FTP username,FTP password ,Upload dir       ,Download dir     ,Region
+BH Telecom       ,pufbih.bhmobile.ba,Tring   ,Tring   ,10.0.110.10          ,21      ,tring1,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+HT Eronet        ,porezna.eronet.ba,        ,        ,10.0.110.10          ,21      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+m:tel            ,PUFBIH               ,fiskkasa,fiskkasa,192.168.169.210      ,21      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+Tring            ,active.bhmobile.ba,tring   ,tring   ,ftp.kase.ba,22      ,KaseFTP     ,kasse.baxx10?,/komande/        ,/izvjestaji/        ,F
+PU               ,puf.eronet.ba       ,        ,        ,10.251.245.99,21      ,porezna     ,porezna1.    ,/home/porezna/GET,/home/porezna/PUT,F
+Telethings,active.bhmobile.ba,Tring   ,Tring   ,fiscal.telethings.com,23      ,tring1,T!R50#,/komande/        ,/izvjestaji/     ,F
+Telethings V2,tthings.bhmobile.ba,Tring   ,Tring,fiscal.telethings.com,23,tring1,T!R50#   ,/komande/        ,/izvjestaji/,F
+Telethings FAST  ,fast.telethings.com  ,        ,        ,fiscal.telethings.com,23      ,tring1,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+BH Telecom Br?ko ,pubd.bhmobile.ba     ,        ,        ,172.30.50.51         ,21      ,tring       ,Tr1ng23!     ,/komande/        ,/izvjestaji/     ,B
+m:tel Br?ko      ,pubdistrikt          ,        ,        ,192.168.177.9        ,21      ,tring,Tr1ng23!     ,/komande/        ,/izvjestaji/,B
+Telethings Brcko V2,tthings.bhmobile.ba,Tring,Tring   ,fiscal.telethings.com,24,tring,Tr1ng23!     ,/komande/        ,/izvjestaji/,B
+Telethings Brcko,active.bhmobile.ba,Tring   ,Tring,fiscal.telethings.com,24,tring,Tr1ng23!     ,/komande/        ,/izvjestaji/,B
+Tring_test            ,active.bhmobile.ba,tring   ,tring   ,ftp.kase.ba,22      ,KaseFTP     ,kasse.baxx10?,/kasaone/        ,/kasaone/        ,B
+PU  1             ,puf.eronet.ba       ,        ,        ,10.251.245.99,21      ,porezna     ,porezna1.    ,/home/porezna/GET,/home/porezna/PUT,B

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="RacunZahtjev">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="BrojZahtjeva" type="xs:string" minOccurs="0" />
+        <xs:element name="VrstaZahtjeva" type="xs:string" minOccurs="0" />
+        <xs:element name="NoviObjekat" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Datum" type="xs:string" minOccurs="0" />
+              <xs:element name="BrojRacuna" type="xs:string" minOccurs="0" />
+              <xs:element name="Kupac" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="IDbroj" type="xs:string" minOccurs="0" />
+                    <xs:element name="Naziv" type="xs:string" minOccurs="0" />
+                    <xs:element name="Adresa" type="xs:string" minOccurs="0" />
+                    <xs:element name="PostanskiBroj" type="xs:string" minOccurs="0" />
+                    <xs:element name="Grad" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="StavkeRacuna" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="RacunStavka" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Kolicina" type="xs:string" minOccurs="0" />
+                          <xs:element name="Rabat" type="xs:string" minOccurs="0" />
+                          <xs:element name="artikal" minOccurs="0" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="Sifra" type="xs:string" minOccurs="0" />
+                                <xs:element name="Naziv" type="xs:string" minOccurs="0" />
+                                <xs:element name="JM" type="xs:string" minOccurs="0" />
+                                <xs:element name="Cijena" type="xs:string" minOccurs="0" />
+                                <xs:element name="Stopa" type="xs:string" minOccurs="0" />
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="VrstePlacanja" minOccurs="0" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VrstaPlacanja" minOccurs="0" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Oznaka" type="xs:string" minOccurs="0" />
+                          <xs:element name="Iznos" type="xs:string" minOccurs="0" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="RacunZahtjev" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

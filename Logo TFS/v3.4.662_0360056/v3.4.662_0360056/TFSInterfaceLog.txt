@@ -1,0 +1,13 @@
+21.01.22 11:01:34: Tring.Fiscal.Server v3.4.662+0360056
+21.01.22 11:01:37: Referentno vrijeme (Internet): 21. 1. 2022. 11:01:38
+21.01.22 11:01:38: Referentno vrijeme - sinhronizacija: OK
+21.01.22 11:01:38: Firmware: 2021-12-09_v1.1.24+7f2bd87
+21.01.22 11:01:38: IBFM: AL016400
+21.01.22 11:01:40: Status uređaja: Spreman -> OK
+
+21.01.22 11:02:21: Tring.Fiscal.Server v3.4.662+0360056
+21.01.22 11:02:25: Referentno vrijeme (Internet): 21. 1. 2022. 11:02:25
+21.01.22 11:02:25: Firmware: 2021-12-09_v1.1.24+7f2bd87
+21.01.22 11:02:25: IBFM: AL016400
+21.01.22 11:02:28: Status uređaja: Spreman -> OK
+21.01.22 11:04:01: Veza sa printerom u prekidu - GREŠKA

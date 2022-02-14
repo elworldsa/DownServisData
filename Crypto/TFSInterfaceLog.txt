@@ -1,0 +1,396 @@
+20.09.21 07:54:08: Tring.Fiscal.Server v3.4.604+920e3e0
+20.09.21 07:54:13: Referentno vrijeme (Internet): 20. 9. 2021. 07:54:13
+20.09.21 07:54:13: Vrijeme na fiskalnom uređaju: 1. 1. 0001. 00:00:00. Provjerite bateriju.
+
+21.09.21 15:02:42: Tring.Fiscal.Server v3.4.623+176b4dc.dirty
+21.09.21 15:02:44: Referentno vrijeme (Internet): 21. 9. 2021. 15:02:45
+21.09.21 15:02:44: Firmware: 2021-07-22_v1.0.22+ddefe3d .izbrisivi
+21.09.21 15:02:44: IBFM: AM900030
+21.09.21 15:02:47: Status uređaja: Spreman -> OK
+21.09.21 15:17:40: Nadogradnja SW u toku...
+21.09.21 15:17:40: Preuzimam Tring.Fiscal.Server.exe
+21.09.21 15:17:41: Preuzimam Tring.Servisna.Aplikacija.exe
+21.09.21 15:17:43: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+21.09.21 15:17:43: Preuzimam libTringFiscalLibrary.dll
+21.09.21 15:17:44: Preuzimam Tring.USBPrinter.EJ.exe
+21.09.21 15:17:45: Preuzimam Tring.Service.Tool.exe
+
+21.09.21 15:17:47: Tring.Fiscal.Server v3.4.518+69575ae
+21.09.21 15:17:49: Referentno vrijeme (Internet): 21. 9. 2021. 15:17:50
+21.09.21 15:17:49: Firmware: 2021-07-22_v1.0.22+ddefe3d .izbrisivi
+21.09.21 15:17:49: IBFM: AM900030
+21.09.21 15:17:51: Status uređaja: Spreman -> OK
+
+22.09.21 09:34:55: Tring.Fiscal.Server v3.4.623+176b4dc.dirty
+
+22.09.21 09:35:25: Tring.Fiscal.Server v3.4.623+176b4dc.dirty
+22.09.21 09:35:27: Referentno vrijeme (Internet): 22. 9. 2021. 09:35:27
+22.09.21 09:35:27: Firmware: 2021-07-22_v1.0.22+ddefe3d .izbrisivi
+22.09.21 09:35:27: IBFM: AM900030
+22.09.21 09:35:29: Status uređaja: Spreman -> OK
+22.09.21 09:35:43: Nadogradnja SW u toku...
+22.09.21 09:35:43: Preuzimam Tring.Fiscal.Server.exe
+22.09.21 09:35:46: Preuzimam Tring.Servisna.Aplikacija.exe
+22.09.21 09:35:50: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+
+22.09.21 09:35:52: Tring.Fiscal.Server v3.4.623+176b4dc.dirty
+22.09.21 09:35:54: Referentno vrijeme (Internet): 22. 9. 2021. 09:35:54
+22.09.21 09:35:54: Firmware: 2021-07-22_v1.0.22+ddefe3d .izbrisivi
+22.09.21 09:35:54: IBFM: AM900030
+22.09.21 09:35:56: Status uređaja: Spreman -> OK
+
+23.09.21 10:19:26: Tring.Fiscal.Server v3.4.628+da528f2
+
+23.09.21 10:19:32: Tring.Fiscal.Server v3.4.628+da528f2
+23.09.21 10:19:34: Referentno vrijeme (Internet): 23. 9. 2021. 10:19:35
+23.09.21 10:19:35: Referentno vrijeme - sinhronizacija: OK
+23.09.21 10:19:35: Firmware: 2021-07-22_v1.0.22+ddefe3d .izbrisivi
+23.09.21 10:19:35: IBFM: AM900030
+23.09.21 10:19:38: Status uređaja: Spreman -> OK
+23.09.21 10:26:58: Nadogradnja FW u toku...
+23.09.21 10:28:57: Nadogradnja SW u toku...
+23.09.21 10:28:57: Preuzimam Tring.Fiscal.Server.exe
+23.09.21 10:29:03: Preuzimam Tring.Servisna.Aplikacija.exe
+23.09.21 10:29:07: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+23.09.21 10:29:07: Preuzimam Tring.USBPrinter.EJ.exe
+23.09.21 10:29:10: Preuzimam Tring.Service.Tool.exe
+
+23.09.21 10:29:13: Tring.Fiscal.Server v3.4.518+69575ae
+23.09.21 10:29:15: Referentno vrijeme (Internet): 23. 9. 2021. 10:29:16
+23.09.21 10:29:15: Firmware: 2021-09-15_v1.0.24+2103729
+23.09.21 10:29:15: IBFM: AM900030
+23.09.21 10:29:17: Status uređaja: Spreman -> OK
+
+23.09.21 12:33:19: Tring.Fiscal.Server v3.4.629+1bf2589
+23.09.21 12:33:23: Referentno vrijeme (Internet): 23. 9. 2021. 12:33:24
+23.09.21 12:33:24: Firmware: 2021-09-15_v1.0.24+2103729
+23.09.21 12:33:24: IBFM: AM900030
+23.09.21 12:33:26: Status uređaja: Spreman -> OK
+23.09.21 12:40:45: Nadogradnja SW u toku...
+23.09.21 12:40:45: Preuzimam Tring.Fiscal.Server.exe
+23.09.21 12:40:46: GREŠKA: The remote server returned an error: (500) Internal Server Error.
+23.09.21 12:40:46: Preuzimam Tring.Servisna.Aplikacija.exe
+23.09.21 12:40:52: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+
+27.09.21 13:53:25: Tring.Fiscal.Server v3.4.630+c7cb5df
+27.09.21 13:53:27: Referentno vrijeme (Internet): 27. 9. 2021. 13:53:27
+27.09.21 13:53:27: Referentno vrijeme - sinhronizacija: OK
+27.09.21 13:53:27: Firmware: 2021-06-30_v1.1.13+c40cbcf
+27.09.21 13:53:27: IBFM: AL003230
+27.09.21 13:53:30: Status uređaja: Spreman -> OK
+27.09.21 13:53:37: Nadogradnja FW u toku...
+27.09.21 13:54:38: Nadogradnja SW u toku...
+27.09.21 13:54:38: Preuzimam Tring.Fiscal.Server.exe
+27.09.21 13:54:39: Preuzimam Tring.Servisna.Aplikacija.exe
+27.09.21 13:54:39: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+
+27.09.21 13:54:40: Tring.Fiscal.Server v3.4.630+c7cb5df
+27.09.21 13:54:42: Referentno vrijeme (Internet): 27. 9. 2021. 13:54:42
+27.09.21 13:54:42: Firmware: 2021-09-15_v1.1.20+d1dbbef
+27.09.21 13:54:42: IBFM: AL003230
+27.09.21 13:54:44: Status uređaja: Spreman -> OK
+
+29.09.21 09:06:09: Tring.Fiscal.Server v3.4.630+c7cb5df
+29.09.21 09:06:11: Referentno vrijeme (Internet): 29. 9. 2021. 09:06:11
+29.09.21 09:06:11: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.09.21 09:06:11: IBFM: AL003000
+29.09.21 09:06:13: Status uređaja: Spreman -> OK
+29.09.21 09:06:17: Nadogradnja SW u toku...
+29.09.21 09:06:17: Preuzimam Tring.Fiscal.Server.exe
+29.09.21 09:06:18: Preuzimam Tring.Servisna.Aplikacija.exe
+29.09.21 09:06:19: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+
+29.09.21 09:06:21: Tring.Fiscal.Server v3.4.630+c7cb5df
+29.09.21 09:06:22: Referentno vrijeme (Internet): 29. 9. 2021. 09:06:23
+29.09.21 09:06:23: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.09.21 09:06:23: IBFM: AL003000
+29.09.21 09:06:25: Nadogradnja SW u toku...
+29.09.21 09:06:25: Preuzimam Tring.Fiscal.Server.exe
+29.09.21 09:06:26: Preuzimam Tring.Servisna.Aplikacija.exe
+29.09.21 09:06:26: Status uređaja: Spreman -> OK
+29.09.21 09:06:26: Preuzimam Tring.Fiscal.Library.Wrapper.dll
+
+29.09.21 09:06:30: Tring.Fiscal.Server v3.4.630+c7cb5df
+29.09.21 09:06:31: Referentno vrijeme (Internet): 29. 9. 2021. 09:06:31
+29.09.21 09:06:31: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.09.21 09:06:31: IBFM: AL003000
+29.09.21 09:06:34: Status uređaja: Spreman -> OK
+29.09.21 09:10:21: Veza sa printerom u prekidu - GREŠKA
+
+29.10.21 09:13:00: Tring.Fiscal.Server v3.4.630+c7cb5df
+29.10.21 09:15:50: Referentno vrijeme (Internet): 29. 10. 2021. 09:15:50
+29.10.21 09:15:50: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:15:50: IBFM: AL007590
+29.10.21 09:15:53: Status uređaja: Spreman -> OK
+
+29.10.21 09:29:47: Tring.Fiscal.Server v3.4.630+c7cb5df
+29.10.21 09:29:49: Referentno vrijeme (Internet): 29. 10. 2021. 09:29:49
+29.10.21 09:29:49: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:29:49: IBFM: AL007590
+29.10.21 09:29:52: Status uređaja: Spreman -> OK
+29.10.21 09:30:02: Nadogradnja SW u toku...
+29.10.21 09:30:02: Preuzimam Tring.Fiscal.Server.exe
+29.10.21 09:30:03: Preuzimam Tring.Servisna.Aplikacija.exe
+29.10.21 09:30:05: Preuzimam ftp_postavke.csv
+
+29.10.21 09:30:07: Tring.Fiscal.Server v3.4.634+36134df
+29.10.21 09:30:08: Referentno vrijeme (Internet): 29. 10. 2021. 09:30:08
+29.10.21 09:30:09: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:30:09: IBFM: AL007590
+29.10.21 09:30:11: Status uređaja: Spreman -> OK
+
+29.10.21 09:30:42: Tring.Fiscal.Server v3.4.634+36134df
+29.10.21 09:30:44: Referentno vrijeme (Internet): 29. 10. 2021. 09:30:43
+29.10.21 09:30:44: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:30:44: IBFM: AL007590
+29.10.21 09:30:52: Status uređaja: Spreman -> OK
+29.10.21 09:30:54: Veza sa printerom u prekidu - GREŠKA
+
+29.10.21 09:32:15: Tring.Fiscal.Server v3.4.634+36134df
+29.10.21 09:32:17: Referentno vrijeme (Internet): 29. 10. 2021. 09:32:17
+29.10.21 09:32:17: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:32:17: IBFM: AL007590
+29.10.21 09:32:20: Status uređaja: Spreman -> OK
+
+29.10.21 09:57:54: Tring.Fiscal.Server v3.4.634+36134df
+29.10.21 09:57:56: Referentno vrijeme (Internet): 29. 10. 2021. 09:57:56
+29.10.21 09:57:56: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.10.21 09:57:56: IBFM: AL007590
+29.10.21 09:57:59: Status uređaja: Spreman -> OK
+29.10.21 09:57:59: Prijenos podataka na server PU...
+29.10.21 09:58:19: Prijenos podataka na server PU -> Prenos_Uspjesan
+
+17.11.21 15:25:56: Tring.Fiscal.Server v3.4.634+36134df
+17.11.21 15:25:58: Referentno vrijeme (Internet): 17. 11. 2021. 15:25:59
+17.11.21 15:25:58: Firmware: 2021-09-15_v1.1.20+d1dbbef
+17.11.21 15:25:58: IBFM: AL003560
+17.11.21 15:26:01: Status uređaja: Spreman -> OK
+17.11.21 15:27:19: Veza sa printerom u prekidu - GREŠKA
+17.11.21 15:33:04: Status uređaja: Spreman -> OK
+
+18.11.21 14:13:35: Tring.Fiscal.Server v3.4.634+36134df
+18.11.21 14:13:40: Referentno vrijeme (Internet): 18. 11. 2021. 14:13:40
+18.11.21 14:13:40: Firmware: 2021-09-15_v1.1.20+d1dbbef
+18.11.21 14:13:40: IBFM: AL012300
+18.11.21 14:13:46: Status uređaja: Spreman -> OK
+
+19.11.21 10:50:10: Tring.Fiscal.Server v3.4.634+36134df
+19.11.21 10:50:10: Referentno vrijeme (Internet): 19. 11. 2021. 10:50:11
+19.11.21 10:50:10: Firmware: 2021-09-15_v1.1.20+d1dbbef
+19.11.21 10:50:10: IBFM: AL011910
+19.11.21 10:50:12: Status uređaja: Spreman -> OK
+19.11.21 10:50:16: Prijenos podataka na server PU...
+19.11.21 10:50:23: Prijenos podataka na server PU -> Prenos_Neuspjesan
+
+19.11.21 10:54:28: Tring.Fiscal.Server v3.4.634+36134df
+19.11.21 10:54:30: Referentno vrijeme (Internet): 19. 11. 2021. 10:54:31
+19.11.21 10:54:30: Firmware: 2021-09-15_v1.1.20+d1dbbef
+19.11.21 10:54:30: IBFM: AL011910
+19.11.21 10:54:33: Status uređaja: Spreman -> OK
+19.11.21 10:54:33: Prijenos podataka na server PU...
+19.11.21 10:55:00: Prijenos podataka na server PU -> Prenos_Neuspjesan
+19.11.21 10:55:26: Nadogradnja SW u toku...
+19.11.21 10:55:26: Preuzimam Tring.Fiscal.Server.exe
+19.11.21 10:55:27: Preuzimam Tring.Servisna.Aplikacija.exe
+
+19.11.21 10:55:30: Tring.Fiscal.Server v3.4.634+36134df
+19.11.21 10:55:32: Referentno vrijeme (Internet): 19. 11. 2021. 10:55:33
+19.11.21 10:55:32: Firmware: 2021-09-15_v1.1.20+d1dbbef
+19.11.21 10:55:32: IBFM: AL011910
+19.11.21 10:55:37: Nadogradnja SW u toku...
+19.11.21 10:55:37: Preuzimam Tring.Fiscal.Server.exe
+
+19.11.21 10:55:50: Tring.Fiscal.Server v3.4.634+36134df
+19.11.21 10:55:52: Referentno vrijeme (Internet): 19. 11. 2021. 10:55:53
+19.11.21 10:55:52: Firmware: 2021-09-15_v1.1.20+d1dbbef
+19.11.21 10:55:52: IBFM: AL011910
+19.11.21 10:55:54: Status uređaja: Spreman -> OK
+
+29.11.21 16:29:17: Tring.Fiscal.Server v3.4.634+36134df
+
+29.11.21 16:29:45: Tring.Fiscal.Server v3.4.634+36134df
+29.11.21 16:29:47: Referentno vrijeme (Internet): 29. 11. 2021. 16:29:47
+29.11.21 16:29:47: Firmware: 2021-09-15_v1.1.20+d1dbbef
+29.11.21 16:29:47: IBFM: AL012240
+29.11.21 16:29:49: Status uređaja: Spreman -> OK
+
+02.12.21 09:35:34: Tring.Fiscal.Server v3.4.649+826a21a
+02.12.21 09:36:32: Referentno vrijeme (Internet): 2. 12. 2021. 09:36:32
+02.12.21 09:36:33: Firmware: 2021-09-15_v1.1.20+d1dbbef
+02.12.21 09:36:33: IBFM: 
+02.12.21 09:36:35: Status uređaja: Spreman -> OK
+02.12.21 09:36:44: Prijenos podataka na server PU...
+02.12.21 09:37:01: Prijenos podataka na server PU -> Prenos_Neuspjesan
+02.12.21 09:48:02: Prijenos podataka na server PU...
+02.12.21 09:48:19: Prijenos podataka na server PU -> Prenos_Neuspjesan
+02.12.21 09:55:07: Veza sa printerom u prekidu - GREŠKA
+02.12.21 09:57:16: Status uređaja: Spreman -> OK
+02.12.21 09:57:21: Prijenos podataka na server PU...
+02.12.21 09:57:42: Prijenos podataka na server PU -> Prenos_Neuspjesan
+
+23.12.21 10:00:58: Tring.Fiscal.Server v3.4.649+826a21a
+23.12.21 10:01:02: Referentno vrijeme (Internet): 23. 12. 2021. 10:01:02
+23.12.21 10:01:02: Firmware: 2021-12-09_v1.1.24+7f2bd87
+23.12.21 10:01:02: IBFM: AL016430
+23.12.21 10:01:04: Status uređaja: Spreman -> OK
+23.12.21 10:01:13: Prijenos podataka na server PU...
+23.12.21 10:01:35: Prijenos podataka na server PU -> Prenos_Neuspjesan
+
+18.01.22 15:23:54: Tring.Fiscal.Server v3.4.649+826a21a
+18.01.22 15:23:57: Referentno vrijeme (Internet): 18. 1. 2022. 15:23:58
+18.01.22 15:23:57: Firmware: 2021-09-15_v1.1.20+d1dbbef
+18.01.22 15:23:57: IBFM: AL013610
+18.01.22 15:24:00: Status uređaja: Spreman -> OK
+18.01.22 15:24:19: Veza sa printerom u prekidu - GREŠKA
+
+25.01.22 14:13:08: Tring.Fiscal.Server v3.4.649+826a21a
+25.01.22 14:13:11: Referentno vrijeme (Internet): 25. 1. 2022. 14:13:11
+25.01.22 14:13:12: Firmware: 2021-12-09_v1.1.24+7f2bd87
+25.01.22 14:13:12: IBFM: AL017890
+25.01.22 14:13:14: Status uređaja: Spreman -> OK
+
+25.01.22 14:14:51: Tring.Fiscal.Server v3.4.649+826a21a
+25.01.22 14:14:55: Referentno vrijeme (Internet): 25. 1. 2022. 14:14:54
+25.01.22 14:14:55: Firmware: 2021-12-09_v1.1.24+7f2bd87
+25.01.22 14:14:55: IBFM: AL017890
+25.01.22 14:14:57: Status uređaja: Spreman -> OK
+25.01.22 14:15:07: Nadogradnja FW u toku...
+25.01.22 14:15:40: Nadogradnja SW u toku...
+25.01.22 14:15:40: Preuzimam Tring.Fiscal.Server.exe
+25.01.22 14:15:43: Preuzimam Tring.Servisna.Aplikacija.exe
+
+25.01.22 14:15:46: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:15:50: Referentno vrijeme (Internet): 25. 1. 2022. 14:15:49
+25.01.22 14:15:50: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:15:50: IBFM: AL017890
+25.01.22 14:15:53: Status uređaja: Spreman -> OK
+
+25.01.22 14:17:08: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:17:11: Referentno vrijeme (Internet): 25. 1. 2022. 14:17:11
+25.01.22 14:17:11: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:17:11: IBFM: AL017890
+25.01.22 14:17:13: Status uređaja: Spreman -> OK
+25.01.22 14:17:35: Veza sa printerom u prekidu - GREŠKA
+
+25.01.22 14:17:47: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:17:50: Referentno vrijeme (Internet): 25. 1. 2022. 14:17:50
+25.01.22 14:17:50: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:17:50: IBFM: AL017890
+25.01.22 14:17:53: Status uređaja: Spreman -> OK
+
+25.01.22 14:21:31: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:21:34: Referentno vrijeme (Internet): 25. 1. 2022. 14:21:33
+25.01.22 14:21:34: Referentno vrijeme - sinhronizacija: OK
+25.01.22 14:21:34: Firmware: 2021-12-09_v1.1.24+7f2bd87
+25.01.22 14:21:34: IBFM: AL017850
+25.01.22 14:21:37: Status uređaja: Spreman -> OK
+25.01.22 14:21:42: Nadogradnja FW u toku...
+
+25.01.22 14:23:21: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:23:24: Referentno vrijeme (Internet): 25. 1. 2022. 14:23:23
+25.01.22 14:23:24: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:23:24: IBFM: AL017850
+25.01.22 14:23:26: Status uređaja: Spreman -> OK
+
+25.01.22 14:23:54: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:23:57: Referentno vrijeme (Internet): 25. 1. 2022. 14:23:57
+25.01.22 14:23:57: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:23:57: IBFM: AL017850
+25.01.22 14:24:00: Status uređaja: Spreman -> OK
+
+25.01.22 14:24:51: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:24:55: Referentno vrijeme (Internet): 25. 1. 2022. 14:24:54
+25.01.22 14:24:55: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:24:55: IBFM: AL017850
+25.01.22 14:24:58: Status uređaja: Spreman -> OK
+25.01.22 14:25:51: Veza sa printerom u prekidu - GREŠKA
+25.01.22 14:27:07: Status uređaja: Spreman -> OK
+
+25.01.22 14:27:56: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:28:00: Referentno vrijeme (Internet): 25. 1. 2022. 14:27:59
+25.01.22 14:28:00: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:28:00: IBFM: AL017850
+25.01.22 14:28:03: Status uređaja: Spreman -> OK
+
+25.01.22 14:28:33: Tring.Fiscal.Server v3.5.0+a1cbd97
+25.01.22 14:28:36: Referentno vrijeme (Internet): 25. 1. 2022. 14:28:36
+25.01.22 14:28:36: Firmware: 2021-12-10_v1.1.25+dd4b770
+25.01.22 14:28:36: IBFM: AL017850
+25.01.22 14:28:39: Status uređaja: Spreman -> OK
+25.01.22 14:28:39: Prijenos podataka na server PU...
+25.01.22 14:29:09: Prijenos podataka na server PU -> Prenos_Neuspjesan
+
+25.01.22 14:30:53: Tring.Fiscal.Server v3.5.0+a1cbd97
+
+31.01.22 18:18:32: Tring.Fiscal.Server v3.5.0+a1cbd97
+31.01.22 18:18:35: Referentno vrijeme (Internet): 31. 1. 2022. 18:18:35
+31.01.22 18:18:36: Referentno vrijeme - sinhronizacija: OK
+31.01.22 18:18:36: Firmware: 2021-12-09_v1.1.24+7f2bd87
+31.01.22 18:18:36: IBFM: AL017870
+31.01.22 18:18:38: Nadogradnja FW u toku...
+31.01.22 18:19:14: Status uređaja: Spreman -> OK
+31.01.22 18:19:14: Veza sa printerom u prekidu - GREŠKA
+
+31.01.22 18:19:57: Tring.Fiscal.Server v3.5.0+a1cbd97
+31.01.22 18:20:01: Referentno vrijeme (Internet): 31. 1. 2022. 18:20:00
+31.01.22 18:20:01: Firmware: 2021-12-10_v1.1.25+dd4b770
+31.01.22 18:20:01: IBFM: AL017870
+31.01.22 18:20:04: Status uređaja: Spreman -> OK
+31.01.22 18:20:34: Veza sa printerom u prekidu - GREŠKA
+
+03.02.22 15:08:24: Tring.Fiscal.Server v3.5.0+a1cbd97
+03.02.22 15:08:27: Referentno vrijeme (Internet): 3. 2. 2022. 15:08:29
+03.02.22 15:08:27: Firmware: 2021-12-10_v1.1.25+dd4b770
+03.02.22 15:08:27: IBFM: AL013730
+03.02.22 15:08:30: Status uređaja: Spreman -> OK
+03.02.22 15:08:35: Nadogradnja FW u toku...
+03.02.22 15:10:32: Status uređaja: Spreman -> OK
+
+05.02.22 15:22:14: Tring.Fiscal.Server v3.5.0+a1cbd97
+05.02.22 15:22:15: Referentno vrijeme (Internet): 5. 2. 2022. 15:22:15
+05.02.22 15:22:15: Firmware: v2.0.147+1b05110
+05.02.22 15:22:15: IBFM: AJ092010
+05.02.22 15:22:17: Status uređaja: Spreman -> OK
+05.02.22 15:22:17: Prijenos podataka na server PU...
+05.02.22 15:22:22: Prijenos podataka na server PU...
+05.02.22 15:22:26: Prijenos podataka na server PU...
+05.02.22 15:22:28: Prijenos podataka na server PU...
+
+05.02.22 16:06:20: Tring.Fiscal.Server v3.5.0+a1cbd97
+05.02.22 16:06:24: Referentno vrijeme (Internet): 5. 2. 2022. 16:06:24
+05.02.22 16:06:24: Firmware: 2022-01-21_v1.1.26+0ec240d
+05.02.22 16:06:24: IBFM: AL020060
+05.02.22 16:06:27: Status uređaja: Spreman -> OK
+
+05.02.22 16:08:12: Tring.Fiscal.Server v3.5.0+a1cbd97
+05.02.22 16:08:15: Referentno vrijeme (Internet): 5. 2. 2022. 16:08:15
+05.02.22 16:08:15: Firmware: 2022-01-21_v1.1.26+0ec240d
+05.02.22 16:08:15: IBFM: AL020060
+05.02.22 16:08:18: Status uređaja: Spreman -> OK
+05.02.22 16:10:02: Veza sa printerom u prekidu - GREŠKA
+
+07.02.22 11:51:34: Tring.Fiscal.Server v3.5.0+a1cbd97
+07.02.22 11:51:59: Referentno vrijeme (Internet): 7. 2. 2022. 11:51:59
+07.02.22 11:51:59: Referentno vrijeme - sinhronizacija: OK
+07.02.22 11:51:59: Firmware: v2.0.148+c79c246.dirty
+07.02.22 11:51:59: IBFM: AJ012720
+07.02.22 11:52:01: Status uređaja: Spreman -> OK
+07.02.22 11:52:01: Prijenos podataka na server PU...
+07.02.22 11:52:03: Prijenos podataka na server PU...
+
+08.02.22 10:14:33: Tring.Fiscal.Server v3.5.0+a1cbd97
+08.02.22 10:14:36: Referentno vrijeme (Internet): 8. 2. 2022. 10:14:36
+08.02.22 10:14:36: Referentno vrijeme - sinhronizacija: Upisivanje datuma i vremena: 6070
+
+08.02.22 10:14:36: Firmware: 2022-01-21_v1.1.26+0ec240d
+08.02.22 10:14:36: IBFM: AL020060
+08.02.22 10:14:39: Status uređaja: Spreman -> OK
+
+11.02.22 10:37:52: Tring.Fiscal.Server v3.5.0+a1cbd97
+11.02.22 10:37:55: Referentno vrijeme (Internet): 11. 2. 2022. 10:37:55
+11.02.22 10:37:56: Referentno vrijeme - sinhronizacija: OK
+11.02.22 10:37:56: Firmware: 2022-01-21_v1.1.26+0ec240d
+11.02.22 10:37:56: IBFM: AL017990
+11.02.22 10:37:59: Status uređaja: Spreman -> OK
+11.02.22 10:37:59: Veza sa printerom u prekidu - GREŠKA
+11.02.22 10:38:02: Nadogradnja FW u toku...

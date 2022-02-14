@@ -1,0 +1,280 @@
+﻿ZAHTJEV:
+Komanda: /Inicijalizacija2
+Vrijeme: 21. 1. 2022. 11:02:30
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Operator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojOperatora>1</BrojOperatora>
+  <Lozinka>0</Lozinka>
+</Operator>
+===================================================================
+d7445845c7a3ab2ef3928373f3ce8bc5
+
+ODGOVOR:
+Komanda: /Inicijalizacija2
+Vrijeme: 21. 1. 2022. 11:02:31
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+376da0ad26d460577bc8e00e08327dac
+
+ZAHTJEV:
+Komanda: /CitajArtikal
+Vrijeme: 21. 1. 2022. 11:02:34
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<double>1</double>
+===================================================================
+659f43d8096084f400967a3b0fb92593
+
+ODGOVOR:
+Komanda: /CitajArtikal
+Vrijeme: 21. 1. 2022. 11:02:34
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Artikal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sifra>1</Sifra>
+  <Naziv>Test art E</Naziv>
+  <JM>ko</JM>
+  <Cijena>0.5</Cijena>
+  <Stopa>E</Stopa>
+  <Grupa>0</Grupa>
+  <PLU>1</PLU>
+</Artikal>
+===================================================================
+21dbf7fe5b462f3723cbd61dca017c8f
+
+ZAHTJEV:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 21. 1. 2022. 11:02:38
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>585274</BrojZahtjeva>
+  <VrstaZahtjeva>29</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>linija1</Naziv>
+      <Vrijednost>Test art E</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>linija2</Naziv>
+      <Vrijednost>1X               0,1</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+ba808be19d2de1d0dfab096c7e668f26
+
+ODGOVOR:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 21. 1. 2022. 11:02:39
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+8a3ac234c1c6abcb4b8f578e1f0b5abf
+
+ZAHTJEV:
+Komanda: /StampatiFiskalniRacun
+Vrijeme: 21. 1. 2022. 11:02:41
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<RacunZahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>233</BrojZahtjeva>
+  <VrstaZahtjeva>0</VrstaZahtjeva>
+  <NoviObjekat>
+    <Datum>0001-01-01T00:00:00</Datum>
+    <StavkeRacuna>
+      <RacunStavka>
+        <artikal>
+          <Sifra>1</Sifra>
+          <Naziv>Test art E</Naziv>
+          <JM>ko</JM>
+          <Cijena>0.1</Cijena>
+          <Stopa>E</Stopa>
+          <Grupa>0</Grupa>
+          <PLU>0</PLU>
+        </artikal>
+        <Kolicina>1</Kolicina>
+        <Rabat>0</Rabat>
+      </RacunStavka>
+    </StavkeRacuna>
+    <VrstePlacanja>
+      <VrstaPlacanja>
+        <Oznaka>Gotovina</Oznaka>
+        <Iznos>0</Iznos>
+      </VrstaPlacanja>
+    </VrstePlacanja>
+    <Napomena />
+    <BrojRacuna>233</BrojRacuna>
+  </NoviObjekat>
+</RacunZahtjev>
+===================================================================
+6d56be4cc1727797b5eb97f004a04461
+
+ODGOVOR:
+Komanda: /StampatiFiskalniRacun
+Vrijeme: 21. 1. 2022. 11:02:51
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori>
+    <Odgovor>
+      <Naziv>BrojFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:int">2</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>DatumFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">21. 1. 2022.</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>VrijemeFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">11:02:46</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>IznosFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:double">0.1</Vrijednost>
+    </Odgovor>
+  </Odgovori>
+  <VrstaOdgovora>OK</VrstaOdgovora>
+  <BrojZahtjeva>233</BrojZahtjeva>
+</KasaOdgovor>
+===================================================================
+e9a2a5dc9ec7e4e41e8793be9c4bcbdf
+
+ZAHTJEV:
+Komanda: /CitajArtikal
+Vrijeme: 21. 1. 2022. 11:03:09
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<double>1</double>
+===================================================================
+81105c82cc55df017db54424545e61bb
+
+ODGOVOR:
+Komanda: /CitajArtikal
+Vrijeme: 21. 1. 2022. 11:03:09
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Artikal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sifra>1</Sifra>
+  <Naziv>Test art E</Naziv>
+  <JM>ko</JM>
+  <Cijena>0.5</Cijena>
+  <Stopa>E</Stopa>
+  <Grupa>0</Grupa>
+  <PLU>1</PLU>
+</Artikal>
+===================================================================
+7af47422d28d7bd8c92ecf6947baa04d
+
+ZAHTJEV:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 21. 1. 2022. 11:03:12
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<Zahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>439628</BrojZahtjeva>
+  <VrstaZahtjeva>29</VrstaZahtjeva>
+  <Parametri>
+    <Parametar>
+      <Naziv>linija1</Naziv>
+      <Vrijednost>Test art E</Vrijednost>
+    </Parametar>
+    <Parametar>
+      <Naziv>linija2</Naziv>
+      <Vrijednost>1X               0,1</Vrijednost>
+    </Parametar>
+  </Parametri>
+</Zahtjev>
+===================================================================
+950b1e76f5b661cb70a8091da4b2a705
+
+ODGOVOR:
+Komanda: /UpisiNaDisplej2
+Vrijeme: 21. 1. 2022. 11:03:12
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori />
+  <VrstaOdgovora>OK</VrstaOdgovora>
+</KasaOdgovor>
+===================================================================
+b570e01078877573218df8a44ac84703
+
+ZAHTJEV:
+Komanda: /StampatiReklamiraniRacun
+Vrijeme: 21. 1. 2022. 11:03:16
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<RacunZahtjev xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BrojZahtjeva>2</BrojZahtjeva>
+  <VrstaZahtjeva>2</VrstaZahtjeva>
+  <NoviObjekat>
+    <Datum>0001-01-01T00:00:00</Datum>
+    <StavkeRacuna>
+      <RacunStavka>
+        <artikal>
+          <Sifra>1</Sifra>
+          <Naziv>Test art E</Naziv>
+          <JM>ko</JM>
+          <Cijena>0.1</Cijena>
+          <Stopa>E</Stopa>
+          <Grupa>0</Grupa>
+          <PLU>0</PLU>
+        </artikal>
+        <Kolicina>1</Kolicina>
+        <Rabat>0</Rabat>
+      </RacunStavka>
+    </StavkeRacuna>
+    <VrstePlacanja>
+      <VrstaPlacanja>
+        <Oznaka>Gotovina</Oznaka>
+        <Iznos>0</Iznos>
+      </VrstaPlacanja>
+    </VrstePlacanja>
+    <Napomena />
+    <BrojRacuna>2</BrojRacuna>
+  </NoviObjekat>
+</RacunZahtjev>
+===================================================================
+9920cc112c8bdd0ba41986373bf5821d
+
+ODGOVOR:
+Komanda: /StampatiReklamiraniRacun
+Vrijeme: 21. 1. 2022. 11:03:25
+XML datoteka:
+<?xml version="1.0" encoding="utf-8"?>
+<KasaOdgovor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Odgovori>
+    <Odgovor>
+      <Naziv>BrojFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:int">2</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>DatumFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">21. 1. 2022.</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>VrijemeFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:string">11:03:20</Vrijednost>
+    </Odgovor>
+    <Odgovor>
+      <Naziv>IznosFiskalnogRacuna</Naziv>
+      <Vrijednost xsi:type="xsd:double">0.1</Vrijednost>
+    </Odgovor>
+  </Odgovori>
+  <VrstaOdgovora>OK</VrstaOdgovora>
+  <BrojZahtjeva>2</BrojZahtjeva>
+</KasaOdgovor>
+===================================================================
+f4a87ccc11b5e32049d8202773fa2dc5
+

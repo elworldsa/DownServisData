@@ -1,0 +1,11 @@
+﻿Telecom          ,APN                  ,APN User,APN Pass,FTP server           ,FTP port,FTP username,FTP password ,Upload dir       ,Download dir     ,Region
+BH Telecom       ,pufbih.bhmobile.ba   ,Tring   ,Tring   ,10.0.110.10          ,21      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+HT Eronet        ,porezna.eronet.ba    ,        ,        ,10.0.110.10          ,21      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+m:tel            ,PUFBIH               ,fiskkasa,fiskkasa,192.168.169.210      ,21      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+Tring            ,tring.bhmobile.ba    ,tring   ,tring   ,46.4.145.10          ,22      ,KaseFTP     ,kasse.baxx10?,/kasaone/        ,/kasaone/        ,F
+Carat            ,active.bhmobile.ba   ,x       ,x       ,93.86.162.22         ,21      ,caratstefan ,stefantest382,/upload/         ,/download/       ,F
+PU               ,puf.porezna.ba       ,        ,        ,10.251.245.99        ,21      ,porezna     ,porezna1.    ,/home/porezna/GET,/home/porezna/PUT,F
+Telethings       ,fiscal.telethings.com,Tring   ,Tring   ,fiscal.telethings.com,23      ,tring1      ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+Telethings FAST  ,fast.telethings.com  ,        ,        ,fiscal.telethings.com,23      ,tthings     ,T!R50#       ,/komande/        ,/izvjestaji/     ,F
+BH Telecom Brčko ,pubd.bhmobile.ba     ,        ,        ,172.30.50.51         ,21      ,tring       ,Tr1ng23!     ,/komande/        ,/izvjestaji/     ,B
+m:tel Brčko      ,pubdistrikt          ,        ,        ,192.168.177.9        ,21      ,tring       ,Tr1ng23!     ,/komande/        ,/izvjestaji/     ,B
